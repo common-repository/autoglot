@@ -1,0 +1,251 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+#autoglot_tgs {
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+}
+
+#autoglot_tgs .form-table td fieldset label {
+    padding-left: 50px;
+    margin-top: 0 !important;
+}
+#autoglot_tgs .checkboxinput {
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    position: fixed;
+}
+
+#autoglot_tgs .checkboxtext {
+    display: inline-block;
+    position: relative;
+    text-transform: uppercase;
+    background: #CCC;
+    padding: 0.3em 1.0em 0.3em 2em;
+    border-radius: 0.3em;
+    min-width: 2em;
+    color: #FFF;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+#autoglot_tgs .checkboxtext:after {
+    content: ' ';
+    display: block;
+    background: #FFF;
+    width: 1.1em;
+    height: 1.1em;
+    border-radius: 0.3em;
+    position: absolute;
+    left: 0.3em;
+    top: 0.4em;
+    transition: left 0.15s, margin-left 0.20s;
+    padding-left: 2px;
+    padding-bottom: 2px;
+}
+
+#autoglot_tgs .checkboxtext:before {
+    content: ' ';
+}
+
+#autoglot_tgs .checkboxinput:checked ~ .checkboxtext {
+    background: #007cba;
+    padding-left: 1.0em;
+    padding-right: 2em;
+}
+
+#autoglot_tgs .checkboxinput:checked ~ .checkboxtext:before {
+    content: ' ';
+}
+
+#autoglot_tgs .checkboxinput:checked ~ .checkboxtext:after {
+    content: '\2713';
+    left: 100%;
+    margin-left: -1.5em;
+    color: #007cba;
+    font-weight:bold;
+}
+
+span.autoglot_spantxt2 {
+    float: left;
+    margin-right: 5px;
+}
+
+a.button i.dashicons {
+    vertical-align: text-top;
+}
+
+div.postbox-container table strong {
+    color:#007cba;
+}
+
+.ag-setup-wrap {
+    margin: 60px auto 24px;
+    box-shadow: none;
+    background: #f1f1f1;
+    padding: 0;
+    width: 100%;
+    max-width: 1000px;
+}
+.ag-setup-content {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+    padding: 24px 24px 0;
+    background: #fff;
+    overflow: hidden;
+    zoom: 1;
+}
+.ag-setup-wrap h1,
+.ag-setup-wrap h2,
+.ag-setup-wrap h3 {
+  margin: 0 0 24px;
+  border: 0;
+  padding: 0;
+  color: #333;
+  clear: none;
+}
+.ag-setup-content p, .ag-setup-content table, .ag-setup-content li {
+  margin: 0 0 24px;
+  font-size: 18px;
+  line-height: 24px;
+  color: #666;
+}
+.ag-setup-content p.submit {
+  padding-top: 15px;
+  float: right;
+}
+.ag-setup-steps {
+  padding: 0 0 24px;
+  margin: 0;
+  list-style: none outside;
+  overflow: hidden;
+  color: #ccc;
+  width: 100%;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+.ag-setup-steps li {
+  width: 33%;
+  float: left;
+  padding: 0 0 0.8em;
+  margin: 0;
+  text-align: center;
+  position: relative;
+  border-bottom: 4px solid #ccc;
+  line-height: 1.4em;
+}
+.ag-setup-steps li a {
+  color: inherit;
+  text-decoration: none;
+}
+.ag-setup-steps li a:focus {
+  outline: 0;
+  box-shadow: none;
+}
+.ag-setup-steps li:before {
+  content: "";
+  border: 4px solid #ccc;
+  border-radius: 100%;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -6px;
+  margin-bottom: -8px;
+  background: #fff;
+}
+.ag-setup-steps li.active {
+  border-color: #008ec2;
+  color: #008ec2;
+}
+.ag-setup-steps li.active:before {
+  border-color: #008ec2;
+}
+.ag-setup-steps li:focus {
+  outline: 0;
+}
+.ag-setup-steps li.done {
+  border-color: #008ec2;
+  color: #008ec2;
+}
+.ag-setup-steps li.done:before {
+  border-color: #008ec2;
+  background: #008ec2;
+}
+
+.autoglot-bubble-red, .autoglot-bubble-yellow, .autoglot-bubble-green {
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    margin: 1px 0 -1px 2px;
+    padding: 0 5px;
+    min-width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    background-color: #d63638;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1.6;
+    text-align: center;
+}
+.autoglot-bubble-yellow {
+    background-color: #dba617;
+}
+.autoglot-bubble-green {
+    background-color: #1ba617;
+}
+
+.ag-admin p, .ag-admin td, .ag-admin th, .ag-admin li {
+  font-size: 15px !important;
+  line-height: 20px !important;
+  color: #444;
+}
+
+.ag-admin table.wp-list-table, .ag-admin div.postbox {
+    box-shadow: #CCC 0 1px 5px 0 !important;
+    border-radius: 3px;
+    border: none !important;
+}
+.ag-admin div.postbox {
+    padding-top: 5px;
+}
+.ag-admin td, .ag-admin th {
+    padding: 12px;
+}
+.ag-admin table.wp-list-table tr:hover {
+    background-color: #EEE;
+}
+
+.ag-admin h1{
+  font-size: 28px;
+  line-height: 32px;
+} 
+
+.ag-admin h2{
+  font-size: 22px !important;
+  line-height: 28px !important;
+  padding-left: 0 !important;
+  margin: 10px 0 !important;
+} 
+
+.ag-admin h3{
+  font-size: 18px;
+  line-height: 30px;
+} 
+
+
+@media screen and (max-width: 782px) {
+    #autoglot_tgs {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+    }
+    
+}

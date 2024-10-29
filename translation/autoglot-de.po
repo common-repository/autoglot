@@ -1,0 +1,2038 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Autoglot Plugin\n"
+"POT-Creation-Date: 2023-08-31 15:51+0300\n"
+"PO-Revision-Date: 2023-08-31 15:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:172
+#, fuzzy
+msgid ""
+"There was an error during installation or activation of Autoglot plugin: "
+"Autoglot table has not been created in DB. Please contact site administrator or "
+"Autoglot support."
+msgstr ""
+"Bei der Installation oder Aktivierung des Autoglot-Plugins ist ein Fehler "
+"aufgetreten: Die Autoglot-Tabelle wurde nicht in der Datenbank erstellt. Bitte "
+"wenden Sie sich an den Site-Administrator oder den Autoglot-Support."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:185
+#, fuzzy
+msgid "Autoglot Setup"
+msgstr "Autoglot-Setup"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:218
+#, fuzzy
+msgid "Autoglot Dashboard"
+msgstr "Autoglot-Dashboard"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:219 admin/autoglot_admin.php:1225
+#, fuzzy
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:232 admin/autoglot_admin.php:233
+#: admin/autoglot_admin.php:1226
+#, fuzzy
+msgid "Settings"
+msgstr "Einstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:245 admin/autoglot_admin.php:246
+#: admin/autoglot_admin.php:412 admin/autoglot_admin.php:1227
+#, fuzzy
+msgid "Languages"
+msgstr "Sprachen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:258 admin/autoglot_admin.php:259
+#, fuzzy
+msgid "Advanced"
+msgstr "Erweiterte Einstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:272 admin/autoglot_admin.php:273
+#, fuzzy
+msgid "Links Modifier"
+msgstr "Links-Modifikator"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:286 admin/autoglot_admin.php:287
+#: admin/autoglot_admin.php:1466 admin/autoglot_admin.php:1507
+#, fuzzy
+msgid "Text Replacement"
+msgstr "Textersetzung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:296 admin/autoglot_admin.php:297
+#, fuzzy
+msgid "Utilities"
+msgstr "Dienstprogramme"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:309 admin/autoglot_admin.php:310
+#, fuzzy
+msgid "Delete Empty Translation"
+msgstr "Leere Übersetzung löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:322 admin/autoglot_admin.php:323
+#, fuzzy
+msgid "Delete Duplicate Translation"
+msgstr "Doppelte Übersetzung löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:335 admin/autoglot_admin.php:336
+#, fuzzy
+msgid "Backup Translation Table"
+msgstr "Backup-Übersetzungstabelle"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:410
+#, fuzzy
+msgid "Main Configuration"
+msgstr "Hauptkonfiguration"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:411
+#, fuzzy
+msgid "Language Switcher"
+msgstr "Sprach Wechsler"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:413
+#, fuzzy
+msgid "Flags"
+msgstr "Flaggen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:414
+#, fuzzy
+msgid "Translation Settings"
+msgstr "Übersetzungseinstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:415
+#, fuzzy
+msgid "Output Settings"
+msgstr "Ausgabeeinstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:416
+#, fuzzy
+msgid "Language Code Insertion"
+msgstr "Einfügen von Sprachcodes"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:417
+#, fuzzy
+msgid "Useful Plugin Utilities"
+msgstr "Nützliche Plugin-Dienstprogramme"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:418
+#, fuzzy
+msgid "Delete Empty Translations"
+msgstr "Leere Übersetzungen löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:419
+#, fuzzy
+msgid "Delete Duplicate Translations"
+msgstr "Doppelte Übersetzungen löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:420
+#, fuzzy
+msgid "Backup Translation DB"
+msgstr "Backup-Übersetzungsdatenbank"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:431 admin/autoglot_admin.php:569
+#, fuzzy
+msgid ""
+"Autoglot is a plugin for a WordPress platform that makes your website or blog "
+"SEO-friendly multilingual and translates all your content automatically using "
+"the best neural machine translation solutions."
+msgstr ""
+"Autoglot ist ein Plugin für eine WordPress-Plattform, das Ihre Website oder Ihr "
+"Blog SEO-freundlich mehrsprachig macht und alle Ihre Inhalte automatisch mit den "
+"besten neuronalen maschinellen Übersetzungslösungen übersetzt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:432
+#, fuzzy
+msgid ""
+"Thank you for choosing <strong>Autoglot Translation plugin</strong>. This quick "
+"setup wizard will help you configure the basic settings. Let's start with your "
+"API key!"
+msgstr ""
+"Vielen Dank, dass Sie sich für das "
+"<strong>Autoglot-Übersetzungs-Plugin</strong> entschieden haben. Dieser "
+"Schnelleinrichtungsassistent hilft Ihnen bei der Konfiguration der "
+"Grundeinstellungen. Beginnen wir mit Ihrem API-Schlüssel!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:433
+#, fuzzy
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Please register in our Autoglot Control Panel</a> "
+"and receive your unique API key. This key should be kept secret and never shared "
+"with anyone."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Bitte registrieren Sie sich in unserem Autoglot "
+"Control Panel</a> und erhalten Sie Ihren eindeutigen API-Schlüssel. Dieser "
+"Schlüssel sollte geheim gehalten und niemals an Dritte weitergegeben werden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:433
+#, fuzzy
+msgid ""
+"Registration is free and takes only a few moments. You don't need a credit card, "
+"any payment or subscription to get your API key."
+msgstr ""
+"Die Registrierung ist kostenlos und dauert nur wenige Augenblicke. Sie "
+"benötigen keine Kreditkarte, keine Zahlung oder ein Abonnement, um Ihren "
+"API-Schlüssel zu erhalten."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:437
+#, fuzzy
+msgid ""
+"Please setup your languages here. You can choose as many languages as you want "
+"but we recommend that you start with only one language."
+msgstr ""
+"Bitte richten Sie hier Ihre Sprachen ein. Sie können so viele Sprachen "
+"auswählen, wie Sie möchten. Wir empfehlen jedoch, mit nur einer Sprache zu "
+"beginnen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:437
+#, fuzzy
+msgid "You may skip this step and choose languages for translation later."
+msgstr ""
+"Sie können diesen Schritt überspringen und die Sprachen für die Übersetzung "
+"später auswählen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:440
+#, fuzzy
+msgid ""
+"<strong>Autoglot plugin has been successfully configured and is now ready to "
+"translate your website!</strong> Please use the links below to access dashboard "
+"or open your website:"
+msgstr ""
+"<strong>Das Autoglot-Plugin wurde erfolgreich konfiguriert und ist jetzt bereit, "
+"Ihre Website zu übersetzen!</strong> Bitte verwenden Sie die folgenden Links, "
+"um auf das Dashboard zuzugreifen oder Ihre Website zu öffnen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:447
+#, fuzzy
+msgid ""
+"<strong>Open your website in chosen languages!</strong> Please be aware of your "
+"balance. We recommend that you start with one language and once satisfied, "
+"proceed with more languages:"
+msgstr ""
+"<strong>Öffnen Sie Ihre Website in den ausgewählten Sprachen!</strong> Bitte "
+"achten Sie auf Ihr Guthaben. Wir empfehlen Ihnen, mit einer Sprache zu beginnen "
+"und, wenn Sie zufrieden sind, mit weiteren Sprachen fortzufahren:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:454
+#, fuzzy
+msgid ""
+"<strong>You have not selected languages for translation.</strong> No worries, "
+"you may do so later on language settings page:"
+msgstr ""
+"<strong>Sie haben keine Sprachen für die Übersetzung ausgewählt.</strong> "
+"Keine Sorge, Sie können dies später auf der Seite mit den Spracheinstellungen "
+"tun:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:455
+#, fuzzy
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-admin-site\"></i> Language Settings</a>"
+msgstr ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-admin-site\"></i>Spracheinstellungen</a>"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:460
+#, fuzzy
+msgid ""
+"<strong>You may want to add an Autoglot language switcher to your "
+"widgets.</strong> This will let your visitors switch site languages. This widget "
+"can be added to almost any widgets area: sidebars, footers, etc."
+msgstr ""
+"<strong>Vielleicht möchten Sie Ihren Widgets einen Autoglot-Sprachumschalter "
+"hinzufügen.</strong> Dadurch können Ihre Besucher die Sprache der Website "
+"wechseln. Dieses Widget kann zu fast jedem Widget-Bereich hinzugefügt werden: "
+"Seitenleisten, Fußzeilen usw."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:461 admin/autoglot_admin.php:671
+#, fuzzy
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-screenoptions\"></i> Setup Autoglot Widget</a>"
+msgstr ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-screenoptions\"></i> Autoglot-Widget einrichten</a>"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:465 admin/autoglot_admin.php:674
+#, fuzzy
+msgid ""
+"<strong>Your theme currently does not support widgets.</strong> No worries, "
+"Autoglot will function without widgets area. You may add language switcher in "
+"popup or as a shortcode via Autoglot Dashboard."
+msgstr ""
+"<strong>Ihr Theme unterstützt derzeit keine Widgets.</strong> Keine Sorge, "
+"Autoglot funktioniert auch ohne Widgets-Bereich. Sie können den "
+"Sprachumschalter im Popup oder als Shortcode über das Autoglot-Dashboard "
+"hinzufügen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:470
+#, fuzzy
+msgid ""
+"<strong>Autoglot translation has not been enabled.</strong> Before trying and "
+"testing plugin you should enable Autoglot translation in main settings:"
+msgstr ""
+"<strong>Die Autoglot-Übersetzung wurde nicht aktiviert.</strong> Bevor Sie das "
+"Plugin ausprobieren und testen, sollten Sie die Autoglot-Übersetzung in den "
+"Haupteinstellungen aktivieren:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:471
+#, fuzzy
+msgid ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons dashicons-admin-settings\"></i> "
+"Main Settings</a>"
+msgstr ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons "
+"dashicons-admin-settings\"></i>Haupteinstellungen</a>"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:474
+#, fuzzy
+msgid ""
+"<strong>Autoglot Dashboard is the main place to start.</strong> This will "
+"display your translation statistics, available balance (number of words you can "
+"translate), and other useful statistics:"
+msgstr ""
+"<strong>Das Autoglot-Dashboard ist der wichtigste Ausgangspunkt.</strong> Hier "
+"werden Ihre Übersetzungsstatistiken, das verfügbare Guthaben (Anzahl der "
+"Wörter, die Sie übersetzen können) und andere nützliche Statistiken "
+"angezeigt:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:475
+#, fuzzy
+msgid ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons dashicons-analytics\"></i> "
+"Autoglot Dashboard</a>"
+msgstr ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons "
+"dashicons-analytics\"></i>Autoglot-Dashboard</a>"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:494
+#, fuzzy
+msgid "Autoglot Account Stats"
+msgstr "Autoglot-Kontostatistiken"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:496
+#, fuzzy
+msgid "Statistics of your Autoglot account."
+msgstr "Statistiken Ihres Autoglot-Kontos."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:498
+#, fuzzy
+msgid "Translation balance"
+msgstr "Übersetzungsbilanz"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:500
+#, fuzzy
+msgid "Your current Autoglot translation balance (number of words you can translate):"
+msgstr ""
+"Ihr aktueller Autoglot-Übersetzungssaldo (Anzahl der Wörter, die Sie "
+"übersetzen können):"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:502
+#, fuzzy
+msgid ""
+"You can replenish your translation balance in your <a href=\"%s\" target=\"_blank\" "
+"class=\"button\">Autoglot Control Panel</a>"
+msgstr ""
+"Sie können Ihr Übersetzungsguthaben in Ihrem <a href=\"%s\" target=\"_blank\" "
+"class=\"button\">Autoglot Control Panel</a> auffüllen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:506
+#, fuzzy
+msgid "We could not connect to Autoglot API with your API key."
+msgstr ""
+"Wir konnten mit Ihrem API-Schlüssel keine Verbindung zur Autoglot-API "
+"herstellen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:506 admin/autoglot_admin.php:1203
+#, fuzzy
+msgid ""
+"Please login to <a href=\"%s\" target=\"_blank\">Autoglot Control Panel</a> and "
+"retrieve your API key."
+msgstr ""
+"Bitte melden Sie sich im <a href=\"%s\" target=\"_blank\">Autoglot Control Panel</a> "
+"an und rufen Sie Ihren API-Schlüssel ab."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:506 admin/autoglot_admin.php:511
+#, fuzzy
+msgid "Please then set your API key in <a href=\"%s\">Autoglot Settings Page</a>."
+msgstr ""
+"Bitte legen Sie dann Ihren API-Schlüssel auf der <a "
+"href=\"%s\">Autoglot-Einstellungsseite</a> fest."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:511 admin/autoglot_admin.php:1200
+#, fuzzy
+msgid ""
+"You have not set up your API key! Autoglot Translation Plugin will not translate "
+"your content without a correct API key."
+msgstr ""
+"Sie haben Ihren API-Schlüssel nicht eingerichtet! Das Autoglot Translation "
+"Plugin übersetzt Ihre Inhalte nicht ohne einen korrekten API-Schlüssel."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:511 admin/autoglot_admin.php:1200
+#, fuzzy
+msgid ""
+"You can get your API key in your <a href=\"%s\" target=\"_blank\">Autoglot Control "
+"Panel</a>."
+msgstr ""
+"Sie können Ihren API-Schlüssel in Ihrem <a href=\"%s\" target=\"_blank\">Autoglot "
+"Control Panel</a> erhalten."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:515
+#, fuzzy
+msgid "Autoglot Plugin Stats"
+msgstr "Statistiken zum Autoglot-Plugin"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:516
+#, fuzzy
+msgid "Status of Autoglot plugin."
+msgstr "Status des Autoglot-Plugins."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:518
+#, fuzzy
+msgid "Autoglot plugin status"
+msgstr "Status des Autoglot-Plugins"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:520
+#, fuzzy
+msgid "Valid API key:"
+msgstr "Gültiger API-Schlüssel:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:520
+#, fuzzy
+msgid "Please set up your API key here."
+msgstr "Bitte richten Sie hier Ihren API-Schlüssel ein."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:521
+#, fuzzy
+msgid "Autoglot plugin enabled:"
+msgstr "Autoglot-Plugin aktiviert:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:521
+#, fuzzy
+msgid "Click here to enable translation."
+msgstr "Klicken Sie hier, um die Übersetzung zu aktivieren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:522
+#, fuzzy
+msgid "Translation available to every visitor:"
+msgstr "Für jeden Besucher verfügbare Übersetzung:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:522
+#, fuzzy
+msgid "Translation is visible for administrator only."
+msgstr "Die Übersetzung ist nur für Administratoren sichtbar."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:522
+#, fuzzy
+msgid "Click here to enable translation for everyone."
+msgstr "Klicken Sie hier, um die Übersetzung für alle zu aktivieren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:523
+#, fuzzy
+msgid "Translation languages enabled:"
+msgstr "Aktivierte Übersetzungssprachen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:523
+#, fuzzy
+msgid "Click here to activate languages."
+msgstr "Klicken Sie hier, um die Sprachen zu aktivieren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:524
+#, fuzzy
+msgid "Language switcher enabled:"
+msgstr "Sprachumschalter aktiviert:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:525
+#, fuzzy
+msgid "<a href=\"%1$s\">Autoglot widget</a> is active."
+msgstr "<a href=\"%1$s\">Autoglot-Widget</a> ist aktiv."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:525
+#, fuzzy
+msgid "<a href=\"%1$s\">Autoglot widget</a> is not active."
+msgstr "<a href=\"%1$s\">Autoglot-Widget</a> ist nicht aktiv."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:525
+#, fuzzy
+msgid "Widgets are not supported."
+msgstr "Widgets werden nicht unterstützt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:526
+#, fuzzy
+msgid "<a href=\"%s\">Floating language switcher</a> is active."
+msgstr "<a href=\"%s\">Floating-Sprachumschalter</a> ist aktiv."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:526
+#, fuzzy
+msgid "<a href=\"%2$s\">Floating language switcher</a> is not active."
+msgstr "<a href=\"%2$s\">Floating-Sprachumschalter</a> ist nicht aktiv."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:528
+#, fuzzy
+msgid "Statistics of Autoglot plugin usage."
+msgstr "Statistiken zur Nutzung des Autoglot-Plugins."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:530
+#, fuzzy
+msgid "Translation DB stats"
+msgstr "Übersetzungs-DB-Statistiken"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:533
+#, fuzzy
+msgid "Number of records in Autoglot translation DB:"
+msgstr "Anzahl der Datensätze in der Autoglot-Übersetzungs-DB:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:534
+#, fuzzy
+msgid "Number of unique phrases in Autoglot translation DB:"
+msgstr "Anzahl eindeutiger Phrasen in der Autoglot-Übersetzungsdatenbank:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:535
+#, fuzzy
+msgid "Number of translated words in Autoglot translation DB:"
+msgstr "Anzahl der übersetzten Wörter in der Autoglot-Übersetzungs-DB:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:536
+#, fuzzy
+msgid "Number of unique languages in Autoglot translation DB:"
+msgstr "Anzahl eindeutiger Sprachen in der Autoglot-Übersetzungs-DB:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:537
+#, fuzzy
+msgid "Total size of Autoglot translation DB:"
+msgstr "Gesamtgröße der Autoglot-Übersetzungs-DB:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:538
+#, fuzzy
+msgid "Most recent translation:"
+msgstr "Neueste Übersetzung:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:540
+#, fuzzy
+msgid "Statistics of Autoglot plugin settings."
+msgstr "Statistik der Autoglot-Plugin-Einstellungen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:542
+#, fuzzy
+msgid "Plugin settings stats"
+msgstr "Statistiken zu Plugin-Einstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:544
+#, fuzzy
+msgid "Number of active languages (including default):"
+msgstr "Anzahl der aktiven Sprachen (einschließlich Standard):"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:545
+#, fuzzy
+msgid "Number of all available languages:"
+msgstr "Anzahl aller verfügbaren Sprachen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:546
+#, fuzzy
+msgid "Plugin version:"
+msgstr "Plugin-Version:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:547
+#, fuzzy
+msgid "Active languages:"
+msgstr "Aktive Sprachen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:557
+#, fuzzy
+msgid "Your Feedback"
+msgstr "Ihre Rückmeldung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:558
+#, fuzzy
+msgid ""
+"Your feedback provides us with key information about what you think as a user of "
+"our plugin and helps us make informed decisions about future enhancements; it "
+"also helps us identify area where we are doing a good job and where we need to "
+"improve."
+msgstr ""
+"Ihr Feedback liefert uns wichtige Informationen darüber, was Sie als Benutzer "
+"unseres Plugins denken, und hilft uns, fundierte Entscheidungen über "
+"zukünftige Verbesserungen zu treffen. Es hilft uns auch dabei, Bereiche zu "
+"identifizieren, in denen wir gute Arbeit leisten und wo wir uns verbessern "
+"müssen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:559
+#, fuzzy
+msgid ""
+"If you enjoy our plugin, please do not hesitate to rate us and submit your "
+"feedback. It's always much appreciated!"
+msgstr ""
+"Wenn Ihnen unser Plugin gefällt, zögern Sie bitte nicht, uns zu bewerten und "
+"Ihr Feedback abzugeben. Es wird immer sehr geschätzt!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:560
+#, fuzzy
+msgid "Rate this plugin"
+msgstr "Bewerten Sie dieses Plugin"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:568
+#, fuzzy
+msgid "About Autoglot"
+msgstr "Über Autoglot"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:570
+#, fuzzy
+msgid "Learn more about Autoglot using the links below:"
+msgstr "Erfahren Sie mehr über Autoglot über die folgenden Links:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:572
+#, fuzzy
+msgid "Official Website"
+msgstr "Offizielle Website"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:573
+#, fuzzy
+msgid "Pricing Information"
+msgstr "Preisinformationen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:574
+#, fuzzy
+msgid "Control Panel"
+msgstr "Bedienfeld"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:575
+#, fuzzy
+msgid "Official Documentation"
+msgstr "Offizielle Dokumentation"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:580
+#, fuzzy
+msgid "Autoglot Support"
+msgstr "Autoglot-Unterstützung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:581
+#, fuzzy
+msgid ""
+"Do you need some help with our plugin? Or you may want to ask us a question, "
+"offer an idea, or request some assistance."
+msgstr ""
+"Benötigen Sie Hilfe mit unserem Plugin? Oder Sie möchten uns eine Frage "
+"stellen, eine Idee anbieten oder um Hilfe bitten."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:582
+#, fuzzy
+msgid ""
+"Our support team is always eager to help you get the most out of Autoglot plugin "
+"by answering your support questions, preventing possible issues, and helping you "
+"resolve all technical questions."
+msgstr ""
+"Unser Support-Team ist stets bemüht, Ihnen dabei zu helfen, das Autoglot-Plugin "
+"optimal zu nutzen, indem es Ihre Support-Fragen beantwortet, möglichen "
+"Problemen vorbeugt und Ihnen bei der Lösung aller technischen Fragen hilft."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:584
+#, fuzzy
+msgid "There are a few channels to request help from us:"
+msgstr "Es gibt einige Kanäle, über die Sie uns um Hilfe bitten können:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:586
+#, fuzzy
+msgid "Support Ticket"
+msgstr "Unterstüzungsticket"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:587
+#, fuzzy
+msgid "WordPress Forums"
+msgstr "WordPress-Foren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:589
+#, fuzzy
+msgid "Facebook Page"
+msgstr "Facebook Seite"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:590
+#, fuzzy
+msgid "Twitter Profile"
+msgstr "Twitter-Profil"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:591
+#, fuzzy
+msgid "LinkedIn Community"
+msgstr "LinkedIn-Community"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:664
+#, fuzzy
+msgid "These are settings for the basic configuration of Autoglot plugin."
+msgstr "Dies sind Einstellungen für die Grundkonfiguration des Autoglot-Plugins."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:668
+#, fuzzy
+msgid "Widget"
+msgstr "Widget"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:670
+#, fuzzy
+msgid ""
+"Autoglot provides a useful widget that lets your visitors switch languages and "
+"open appropriate version of your website. You can find our widget in your "
+"WordPress widget area by searching for \"Autoglot\"."
+msgstr ""
+"Autoglot bietet ein nützliches Widget, mit dem Ihre Besucher die Sprache "
+"wechseln und die entsprechende Version Ihrer Website öffnen können. Sie finden "
+"unser Widget in Ihrem WordPress-Widget-Bereich, indem Sie nach „Autoglot“ "
+"suchen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:677
+#, fuzzy
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:678
+#, fuzzy
+msgid ""
+"Alternatively, you can use a <code>%s</code> shortcode to add a language "
+"switcher to your website posts, pages, popups, etc."
+msgstr ""
+"Alternativ können Sie einen <code>%s</code>-Shortcode verwenden, um Ihren "
+"Website-Beiträgen, Seiten, Popups usw. einen Sprachumschalter hinzuzufügen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:679
+#, fuzzy
+msgid ""
+"Add a \"%s\" argument if you want to set a custom title of this box: "
+"<code>%s</code>."
+msgstr ""
+"Fügen Sie ein „%s“-Argument hinzu, wenn Sie einen benutzerdefinierten Titel "
+"für dieses Feld festlegen möchten: <code>%s</code>."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:680
+#, fuzzy
+msgid "Use a \"%s\" argument in order to select a type of language switcher:"
+msgstr "Verwenden Sie ein „%s“-Argument, um einen Sprachumschaltertyp auszuwählen:"
+
+#: admin/autoglot_admin.php:682
+#, php-format
+msgid "<code>%s</code> &ndash; small flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:683
+#, php-format
+msgid "<code>%s</code> &ndash; large flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:684
+#, php-format
+msgid "<code>%s</code> &ndash; list of languages with flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:685
+#, php-format
+msgid "<code>%s</code> &ndash; list of languages without flags (default)."
+msgstr ""
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:688
+#, fuzzy
+msgid "Popup"
+msgstr "Aufpoppen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:689
+#, fuzzy
+msgid ""
+"Finally, you can enable a popup language switcher. This will add a floating box "
+"to your website. By clicking on this box, users will see a popup window with "
+"language switcher. This is the best solution if you don't want to add widgets or "
+"shortcodes to your website."
+msgstr ""
+"Schließlich können Sie einen Popup-Sprachumschalter aktivieren. Dadurch wird "
+"Ihrer Website eine schwebende Box hinzugefügt. Durch Klicken auf dieses "
+"Kästchen wird den Benutzern ein Popup-Fenster mit Sprachumschalter angezeigt. "
+"Dies ist die beste Lösung, wenn Sie Ihrer Website keine Widgets oder Shortcodes "
+"hinzufügen möchten."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:693
+#, fuzzy
+msgid "Please setup your languages here."
+msgstr "Bitte richten Sie hier Ihre Sprachen ein."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:697
+#, fuzzy
+msgid "Please choose the most appropriate flags for a language switcher."
+msgstr ""
+"Bitte wählen Sie die am besten geeigneten Flags für einen Sprachumschalter "
+"aus."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:701
+#, fuzzy
+msgid "These are advanced translation settings. Please use with caution!"
+msgstr "Dies sind erweiterte Übersetzungseinstellungen. Bitte mit Vorsicht verwenden!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:705
+#, fuzzy
+msgid "These are advanced output settings. Please use with caution!"
+msgstr "Dies sind erweiterte Ausgabeeinstellungen. Bitte mit Vorsicht verwenden!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:709
+#, fuzzy
+msgid ""
+"You can add current language code to any link or text on your website. Default "
+"language does not update or replace any link."
+msgstr ""
+"Sie können jedem Link oder Text auf Ihrer Website den aktuellen Sprachcode "
+"hinzufügen. Die Standardsprache aktualisiert oder ersetzt keinen Link."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:710
+#, fuzzy
+msgid ""
+"The <code>%s</code> shortcode in your updated link will be replaced by current "
+"language code e.g. \"es\", \"de\", \"el\", \"da\", \"sv\"."
+msgstr ""
+"Der Shortcode <code>%s</code> in Ihrem aktualisierten Link wird durch den "
+"aktuellen Sprachcode ersetzt, z. B. „es“, „de“, „el“, „da“, "
+"„sv“."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:711
+#, fuzzy
+msgid ""
+"The <code>%s</code> shortcode in your updated link will be replaced by top level "
+"domain extension of the country e.g. \"es\", \"de\", \"gr\", \"dk\", \"se\", etc."
+msgstr ""
+"Der Shortcode <code>%s</code> in Ihrem aktualisierten Link wird durch die "
+"Top-Level-Domain-Endung des Landes ersetzt, z. B. „es“, „de“, „gr“, "
+"„dk“, „se“ usw."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:712
+#, fuzzy
+msgid ""
+"For example, if you want to replace all links to wikipedia.com to the "
+"corresponding pages of es.wikipedia.org on the Spanish version of your website, "
+"you would enter <code>en.wikipedia.com</code> in the \"Original Link\" box and "
+"<code>%s.wikipedia.com</code> in the \"Updated Link\" box."
+msgstr ""
+"Wenn Sie beispielsweise alle Links zu wikipedia.com durch die entsprechenden "
+"Seiten von es.wikipedia.org in der spanischen Version Ihrer Website ersetzen "
+"möchten, geben Sie <code>en.wikipedia.com</code> in das Feld „ ein. Klicken "
+"Sie im Feld „Originallink“ und auf <code>%s.wikipedia.com</code> im Feld "
+"„Aktualisierter Link“."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:713
+#, fuzzy
+msgid ""
+"As a result, a link to <ins>https://en.wikipedia.org/wiki/WordPress</ins> in "
+"your English version will be replaced with "
+"<ins>https://es.wikipedia.org/wiki/WordPress</ins> on the Spanish version of "
+"your website; <ins>https://de.wikipedia.org/wiki/WordPress</ins> on the German "
+"version, etc."
+msgstr ""
+"Infolgedessen wird ein Link zu "
+"<ins>https://en.wikipedia.org/wiki/WordPress</ins> in Ihrer englischen Version "
+"durch <ins>https://es.wikipedia.org/wiki/ ersetzt. WordPress</ins> auf der "
+"spanischen Version Ihrer Website; "
+"<ins>https://de.wikipedia.org/wiki/WordPress</ins> zur deutschen Version usw."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:714
+#, fuzzy
+msgid ""
+"* This will not update your original blog posts. Links will be replaced only "
+"before the output on non-default languages."
+msgstr ""
+"* Dadurch werden Ihre ursprünglichen Blogbeiträge nicht aktualisiert. Links "
+"werden nur vor der Ausgabe in nicht standardmäßigen Sprachen ersetzt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:715
+#, fuzzy
+msgid ""
+"* These shortcodes work only for these settings. They will not work anywhere "
+"else and cannot be used on your blog posts."
+msgstr ""
+"* Diese Shortcodes funktionieren nur für diese Einstellungen. Sie funktionieren "
+"nirgendwo anders und können nicht in Ihren Blogbeiträgen verwendet werden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:716
+#, fuzzy
+msgid ""
+"* Make sure to use the correct text in \"Original Link\" box. If you enter "
+"<code>wikipedia.com</code>, you will have <ins>en.es.wikipedia.com</ins> on your "
+"website. Correct option is <code>en.wikipedia.com</code>."
+msgstr ""
+"* Stellen Sie sicher, dass Sie im Feld „Originallink“ den richtigen Text "
+"verwenden. Wenn Sie <code>wikipedia.com</code> eingeben, wird "
+"<ins>en.es.wikipedia.com</ins> auf Ihrer Website angezeigt. Die richtige Option "
+"ist <code>en.wikipedia.com</code>."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:721
+#, fuzzy
+msgid "Use these utilities for plugin maintainance."
+msgstr "Verwenden Sie diese Dienstprogramme zur Plugin-Wartung."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:725
+#, fuzzy
+msgid ""
+"We found %d empty translation records in DB. You can safely remove them for "
+"better DB performance."
+msgstr ""
+"Wir haben %d leere Übersetzungsdatensätze in der Datenbank gefunden. Sie "
+"können sie für eine bessere DB-Leistung sicher entfernen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:726
+#, fuzzy
+msgid "Delete empty translation from DB"
+msgstr "Leere Übersetzung aus DB löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:727
+#, fuzzy
+msgid "This will remove all empty translation records from DB."
+msgstr "Dadurch werden alle leeren Übersetzungsdatensätze aus der Datenbank entfernt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:729 admin/autoglot_admin.php:1695
+#, fuzzy
+msgid "No empty translations found in DB. This is great!"
+msgstr "In der Datenbank wurden keine leeren Übersetzungen gefunden. Das ist toll!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:734
+#, fuzzy
+msgid ""
+"We found %d duplicate translation records in DB. You can safely remove them for "
+"better DB performance."
+msgstr ""
+"Wir haben %d doppelte Übersetzungsdatensätze in der Datenbank gefunden. Sie "
+"können sie für eine bessere DB-Leistung sicher entfernen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:735
+#, fuzzy
+msgid "Delete duplicate translation from DB"
+msgstr "Doppelte Übersetzung aus der Datenbank löschen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:736
+#, fuzzy
+msgid ""
+"Sometimes, duplicate translation records may appear due to poor connection "
+"between WordPress and Autoglot servers. This will remove all duplicates except "
+"for the most recent one."
+msgstr ""
+"Manchmal können aufgrund einer schlechten Verbindung zwischen WordPress- und "
+"Autoglot-Servern doppelte Übersetzungsdatensätze erscheinen. Dadurch werden "
+"alle Duplikate bis auf das aktuellste entfernt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:738 admin/autoglot_admin.php:1712
+#, fuzzy
+msgid "No duplicate translations found in DB. This is great!"
+msgstr "In der Datenbank wurden keine doppelten Übersetzungen gefunden. Das ist toll!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:742
+#, fuzzy
+msgid "Backup Translations Table"
+msgstr "Backup-Übersetzungstabelle"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:743
+#, fuzzy
+msgid "Backup translations"
+msgstr "Backup-Übersetzungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:744
+#, fuzzy
+msgid ""
+"This will generate an SQL file with the backup of your translation table. This "
+"may take some time and require server resources! Keep in cool and dry place."
+msgstr ""
+"Dadurch wird eine SQL-Datei mit der Sicherung Ihrer Übersetzungstabelle "
+"generiert. Dies kann einige Zeit dauern und Serverressourcen erfordern! An einem "
+"kühlen und trockenen Ort aufbewahren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:788 admin/autoglot_admin.php:944
+#, fuzzy
+msgid "Default Language"
+msgstr "Standardsprache"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:791 admin/autoglot_admin.php:947
+#, fuzzy
+msgid ""
+"Please choose a default language of your site. We will not add language code to "
+"the URL of default language."
+msgstr ""
+"Bitte wählen Sie eine Standardsprache Ihrer Website. Wir fügen der URL der "
+"Standardsprache keinen Sprachcode hinzu."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:799 admin/autoglot_admin.php:955
+#, fuzzy
+msgid "Choose Active Languages"
+msgstr "Wählen Sie Aktive Sprachen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:814 admin/autoglot_admin.php:907
+#, fuzzy
+msgid "Autoglot API key"
+msgstr "Autoglot-API-Schlüssel"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:818 admin/autoglot_admin.php:911
+#, fuzzy
+msgid "Your API key"
+msgstr "Ihr API-Schlüssel"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:819
+#, fuzzy
+msgid ""
+"You can get your free API key in your <a href=\"%s\" target=\"_blank\">Autoglot "
+"Control Panel</a>"
+msgstr ""
+"Sie können Ihren kostenlosen API-Schlüssel in Ihrem <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a> erhalten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:826 admin/autoglot_admin.php:878
+#, fuzzy
+msgid "Enable Translation"
+msgstr "Übersetzung aktivieren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:831
+#, fuzzy
+msgid "By default, only signed-in administrator will see the translation."
+msgstr ""
+"Standardmäßig wird die Übersetzung nur dem angemeldeten Administrator "
+"angezeigt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:833 admin/autoglot_admin.php:885
+#, fuzzy
+msgid "Click this checkbox to enable Autoglot translation."
+msgstr ""
+"Klicken Sie auf dieses Kontrollkästchen, um die Autoglot-Übersetzung zu "
+"aktivieren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:840
+#, fuzzy
+msgid "Enable Language Switcher"
+msgstr "Aktivieren Sie den Sprachumschalter"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:846
+#, fuzzy
+msgid "Enable language switcher popup."
+msgstr "Aktivieren Sie das Popup zur Sprachumschaltung."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:847
+#, fuzzy
+msgid "Disable language switcher popup. You can still use widgets and shortcodes."
+msgstr ""
+"Deaktivieren Sie das Popup zur Sprachumschaltung. Sie können weiterhin Widgets "
+"und Shortcodes verwenden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:859
+#, fuzzy
+msgid "1 minute"
+msgstr "1 Minute"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:860
+#, fuzzy
+msgid "10 minutes"
+msgstr "10 Minuten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:861
+#, fuzzy
+msgid "30 minutes"
+msgstr "30 Minuten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:862
+#, fuzzy
+msgid "1 hour"
+msgstr "1 Stunde"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:863
+#, fuzzy
+msgid "12 hours"
+msgstr "12 Stunden"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:864
+#, fuzzy
+msgid "1 day"
+msgstr "1 Tag"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:865
+#, fuzzy
+msgid "1 week"
+msgstr "1 Woche"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:866
+#, fuzzy
+msgid "1 month"
+msgstr "1 Monat"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:869 utils/autoglot_widget.php:66
+#, fuzzy
+msgid "List of Languages"
+msgstr "Liste der Sprachen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:870 utils/autoglot_widget.php:67
+#, fuzzy
+msgid "List of Languages and Flags"
+msgstr "Liste der Sprachen und Flaggen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:871 utils/autoglot_widget.php:68
+#, fuzzy
+msgid "Box with Flags"
+msgstr "Box mit Flaggen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:872 utils/autoglot_widget.php:69
+#, fuzzy
+msgid "Box with Small Flags"
+msgstr "Box mit kleinen Flaggen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:883
+#, fuzzy
+msgid "Please do not forget to choose languages on next page."
+msgstr "Bitte vergessen Sie nicht, auf der nächsten Seite die Sprachen auszuwählen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:892
+#, fuzzy
+msgid "Translation for Admin Only"
+msgstr "Übersetzung nur für Administratoren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:896
+#, fuzzy
+msgid ""
+"This can be useful to check translation by admin before publishing it for all "
+"visitors. This will hide \"alternate hreflang\" block and will make widget visible "
+"only for admin."
+msgstr ""
+"Dies kann nützlich sein, um die Übersetzung durch den Administrator zu "
+"überprüfen, bevor sie für alle Besucher veröffentlicht wird. Dadurch wird "
+"der Block „Alternate Hreflang“ ausgeblendet und das Widget nur für den "
+"Administrator sichtbar gemacht."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:899
+#, fuzzy
+msgid "Site admin will be the only one to see and use Autoglot translation."
+msgstr ""
+"Der Site-Administrator ist der einzige, der die Autoglot-Übersetzung sehen und "
+"verwenden kann."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:900
+#, fuzzy
+msgid "Translation will be available to every user."
+msgstr "Die Übersetzung steht jedem Benutzer zur Verfügung."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:912
+#, fuzzy
+msgid ""
+"You can get your API key in your <a href=\"%s\" target=\"_blank\">Autoglot Control "
+"Panel</a>"
+msgstr ""
+"Sie können Ihren API-Schlüssel in Ihrem <a href=\"%s\" target=\"_blank\">Autoglot "
+"Control Panel</a> erhalten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:919
+#, fuzzy
+msgid "Enable Floating Language Switcher"
+msgstr "Aktivieren Sie den schwebenden Sprachumschalter"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:923
+#, fuzzy
+msgid "You can adjust custom CSS with id #ag_floatblox."
+msgstr "Sie können benutzerdefiniertes CSS mit der ID #ag_floatblox anpassen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:925
+#, fuzzy
+msgid "Enable floating box that will open language switcher popup."
+msgstr ""
+"Aktivieren Sie die schwebende Box, um das Popup-Fenster zum Sprachwechsel zu "
+"öffnen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:926
+#, fuzzy
+msgid "Disable floating box. You can still use widgets and shortcodes."
+msgstr ""
+"Schwebende Box deaktivieren. Sie können weiterhin Widgets und Shortcodes "
+"verwenden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:933
+#, fuzzy
+msgid "Type of Language Switcher in Popup"
+msgstr "Art des Sprachumschalters im Popup"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:936
+#, fuzzy
+msgid "Type of language switcher in popup."
+msgstr "Art des Sprachumschalters im Popup."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:965
+#, fuzzy
+msgid "Translation Priority"
+msgstr "Übersetzungspriorität"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:969
+#, fuzzy
+msgid ""
+"If you choose to translate before page generation, certain plugins may add "
+"content after translation that will be shown in default language.<br />If you "
+"choose to translate after page generation, all content will be translated. "
+"However, if a plugin alters content often, it will be often re-translated that "
+"may cause additional charges."
+msgstr ""
+"Wenn Sie sich für die Übersetzung vor der Seitengenerierung entscheiden, "
+"können bestimmte Plugins nach der Übersetzung Inhalte hinzufügen, die in der "
+"Standardsprache angezeigt werden.<br />Wenn Sie sich für die Übersetzung nach "
+"der Seitengenerierung entscheiden, werden alle Inhalte übersetzt. Wenn ein "
+"Plugin den Inhalt jedoch häufig ändert, wird er oft neu übersetzt, was "
+"zusätzliche Kosten verursachen kann."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:972
+#, fuzzy
+msgid "Translate After Page Generation (recommended!)"
+msgstr "Nach der Seitengenerierung übersetzen (empfohlen!)"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:973
+#, fuzzy
+msgid "Translate Before Page Generation"
+msgstr "Vor der Seitengenerierung übersetzen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:980
+#, fuzzy
+msgid "Additional Strings for Translation"
+msgstr "Zusätzliche Zeichenfolgen für die Übersetzung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:983
+#, fuzzy
+msgid "String that is not translated."
+msgstr "Zeichenfolge, die nicht übersetzt wird."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:985
+#, fuzzy
+msgid ""
+"Please enter strings that are not automatically translated. They can be "
+"hard-coded in plugins, themes, or even functions. Please include all HTML code, "
+"if necessary."
+msgstr ""
+"Bitte geben Sie Zeichenfolgen ein, die nicht automatisch übersetzt werden. Sie "
+"können in Plugins, Themes oder sogar Funktionen fest codiert sein. Bitte fügen "
+"Sie bei Bedarf den gesamten HTML-Code ein."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:992
+#, fuzzy
+msgid "Resend Low Balance Notifications"
+msgstr "Benachrichtigungen bei niedrigem Guthaben erneut senden"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:995
+#, fuzzy
+msgid ""
+"How often to send low balance notifications to admin e-mail. Minimum delay "
+"before resending a notification."
+msgstr ""
+"Wie oft werden Benachrichtigungen bei niedrigem Guthaben per E-Mail an den "
+"Administrator gesendet? Mindestverzögerung vor dem erneuten Senden einer "
+"Benachrichtigung."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1005
+#, fuzzy
+msgid "Show \"alternate hreflang\" Block"
+msgstr "Block „alternativer hreflang“ anzeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1009
+#, fuzzy
+msgid "Show section with \"alternate hreflang\" links to other languages on each page."
+msgstr ""
+"Abschnitt mit „alternativen Hreflang“-Links zu anderen Sprachen auf jeder "
+"Seite anzeigen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1012
+#, fuzzy
+msgid "Show hreflangs"
+msgstr "Hreflangs anzeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1013
+#, fuzzy
+msgid "Hide hreflangs"
+msgstr "Hreflangs ausblenden"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1020
+#, fuzzy
+msgid "Show custom HTML titles on certain pages"
+msgstr "Zeigen Sie auf bestimmten Seiten benutzerdefinierte HTML-Titel an"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1024
+#, fuzzy
+msgid ""
+"Show custom (almost WordPress default) HTML titles on search results, "
+"categories, tags, taxonomies, and archive pages. These titles will be generated "
+"by Autoglot in order to minimize translation costs. Otherwise, each title will "
+"be translated for each tag, category, and even search request."
+msgstr ""
+"Zeigen Sie benutzerdefinierte (fast WordPress-Standard) HTML-Titel in "
+"Suchergebnissen, Kategorien, Tags, Taxonomien und Archivseiten an. Diese Titel "
+"werden von Autoglot generiert, um die Übersetzungskosten zu minimieren. "
+"Andernfalls wird jeder Titel für jedes Tag, jede Kategorie und sogar jede "
+"Suchanfrage übersetzt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1027
+#, fuzzy
+msgid "Show custom Autoglot titles"
+msgstr "Zeigen Sie benutzerdefinierte Autoglot-Titel an"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1028
+#, fuzzy
+msgid "Show default titles (by WordPress or SEO plugin)"
+msgstr "Standardtitel anzeigen (von WordPress oder SEO-Plugin)"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1035
+#, fuzzy
+msgid "Improve Content After Translation"
+msgstr "Verbessern Sie Inhalte nach der Übersetzung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1039
+#, fuzzy
+msgid ""
+"Manualy call wptexturize() funciton after translation. This is default for "
+"Wordpress."
+msgstr ""
+"Rufen Sie die Funktion wptexturize() nach der Übersetzung manuell auf. Dies ist "
+"die Standardeinstellung für Wordpress."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1042
+#, fuzzy
+msgid "Use wptexturize()"
+msgstr "Verwenden Sie wptexturize()"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1043
+#, fuzzy
+msgid "Skip wptexturize()"
+msgstr "wptexturize() überspringen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1050
+#, fuzzy
+msgid "Show Widget Signature"
+msgstr "Widget-Signatur anzeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1054
+#, fuzzy
+msgid "Show \"Powered by\" widget signature with a link to official Autoglot.com website."
+msgstr ""
+"Zeigen Sie die Widget-Signatur „Powered by“ mit einem Link zur offiziellen "
+"Autoglot.com-Website an."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1057
+#, fuzzy
+msgid "Show"
+msgstr "Zeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1058
+#, fuzzy
+msgid "Hide"
+msgstr "Verstecken"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1065
+#, fuzzy
+msgid "Decrease Page Priorities in Sitemap"
+msgstr "Verringern Sie die Seitenprioritäten in der Sitemap"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1068
+#, fuzzy
+msgid ""
+"Reduce translated page priority in sitemaps. Not compatible with every sitemap "
+"generation plugin."
+msgstr ""
+"Reduzieren Sie die Priorität übersetzter Seiten in Sitemaps. Nicht kompatibel "
+"mit jedem Sitemap-Generierungs-Plugin."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1076
+#, fuzzy
+msgid "Links or Text For Replacement"
+msgstr "Links oder Text zum Ersetzen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1080
+#, fuzzy
+msgid "Original Links or Text, one per line."
+msgstr "Original-Links oder Text, einer pro Zeile."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1080
+#, fuzzy
+msgid "Replaced Links or Text, one per line"
+msgstr "Ersetzte Links oder Text, einer pro Zeile"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1200 admin/autoglot_admin.php:1203
+#, fuzzy
+msgid "Please then set you API key in <a href=\"%s\">Autoglot Settings Page</a>."
+msgstr ""
+"Bitte legen Sie dann Ihren API-Schlüssel auf der <a "
+"href=\"%s\">Autoglot-Einstellungsseite</a> fest."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1203
+#, fuzzy
+msgid ""
+"We could not connect to Autoglot API with your API key and received the "
+"following response:"
+msgstr ""
+"Wir konnten mit Ihrem API-Schlüssel keine Verbindung zur Autoglot-API "
+"herstellen und haben die folgende Antwort erhalten:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1206
+#, fuzzy
+msgid ""
+"Your Autoglot translation balance is empty. Please login to <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a> and replenish your translation "
+"balance."
+msgstr ""
+"Ihr Autoglot-Übersetzungsguthaben ist leer. Bitte melden Sie sich im <a "
+"href=\"%s\" target=\"_blank\">Autoglot Control Panel</a> an und füllen Sie Ihr "
+"Übersetzungsguthaben auf."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1209
+#, fuzzy
+msgid ""
+"Your Autoglot translation balance is low. Please login to <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a> and replenish your translation "
+"balance."
+msgstr ""
+"Ihr Autoglot-Übersetzungsguthaben ist niedrig. Bitte melden Sie sich im <a "
+"href=\"%s\" target=\"_blank\">Autoglot Control Panel</a> an und füllen Sie Ihr "
+"Übersetzungsguthaben auf."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1234
+#, fuzzy
+msgid "Set up your API key here to start"
+msgstr "Richten Sie hier zunächst Ihren API-Schlüssel ein"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1263 admin/autoglot_admin.php:1264
+#, fuzzy
+msgid "Total Number of Lines:"
+msgstr "Gesamtzahl der Zeilen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1304
+#, fuzzy
+msgid "Check all"
+msgstr "Alle überprüfen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1304
+#, fuzzy
+msgid "Uncheck all"
+msgstr "Alle deaktivieren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1360
+#, fuzzy
+msgid "Your API key is not valid."
+msgstr "Ihr API-Schlüssel ist ungültig."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1360
+#, fuzzy
+msgid "Please login to Autoglot Control Panel and retrieve your API key."
+msgstr ""
+"Bitte melden Sie sich im Autoglot Control Panel an und rufen Sie Ihren "
+"API-Schlüssel ab."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1444
+#, fuzzy
+msgid "Add New Text Replacement Record"
+msgstr "Neuen Textersetzungsdatensatz hinzufügen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1445
+#, fuzzy
+msgid "Add New Text Replacement"
+msgstr "Neue Textersetzung hinzufügen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1446
+#, fuzzy
+msgid "New Item"
+msgstr "Neuer Gegenstand"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1447
+#, fuzzy
+msgid "Edit Record"
+msgstr "Datensatz bearbeiten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1448
+#, fuzzy
+msgid "Update Record"
+msgstr "Datensatz aktualisieren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1449
+#, fuzzy
+msgid "View Record"
+msgstr "Datensatz anzeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1450
+#, fuzzy
+msgid "View Records"
+msgstr "Datensätze anzeigen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1451
+#, fuzzy
+msgid "Search Records"
+msgstr "Datensätze durchsuchen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1452
+#, fuzzy
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1453
+#, fuzzy
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1458
+#, fuzzy
+msgid "Insert into item"
+msgstr "In Artikel einfügen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1460
+#, fuzzy
+msgid "Items list"
+msgstr "Artikelliste"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1461
+#, fuzzy
+msgid "Items list navigation"
+msgstr "Navigation in der Artikelliste"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1462
+#, fuzzy
+msgid "Filter items list"
+msgstr "Artikelliste filtern"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1465
+#, fuzzy
+msgid "Text Record"
+msgstr "Textaufzeichnung"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1490
+#, fuzzy
+msgid "Please enter the name of your text record"
+msgstr "Bitte geben Sie den Namen Ihres Textdatensatzes ein"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1499
+#, fuzzy
+msgid ""
+"Please choose a name of your text record (only visible for site administrator), "
+"content in your default language that will be replaced, and content for each "
+"language where you want your content replaced. If you don't set a new content "
+"for any particular language, default content will be displayed."
+msgstr ""
+"Bitte wählen Sie einen Namen für Ihren Textdatensatz (nur für "
+"Site-Administratoren sichtbar), Inhalte in Ihrer Standardsprache, die ersetzt "
+"werden sollen, und Inhalte für jede Sprache, in der Ihre Inhalte ersetzt werden "
+"sollen. Wenn Sie für eine bestimmte Sprache keinen neuen Inhalt festlegen, wird "
+"der Standardinhalt angezeigt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1531
+#, fuzzy
+msgid ""
+"Warning: you have not specified default language content that should be "
+"replaced. That's OK, we will save the record but it will not work."
+msgstr ""
+"Warnung: Sie haben keinen Inhalt in der Standardsprache angegeben, der ersetzt "
+"werden soll. Das ist in Ordnung, wir speichern den Datensatz, aber es wird nicht "
+"funktionieren."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1563
+#, fuzzy
+msgid "Please enter content that should be replaced when switching to another language."
+msgstr ""
+"Bitte geben Sie Inhalte ein, die bei der Umstellung auf eine andere Sprache "
+"ersetzt werden sollen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1564
+#, fuzzy
+msgid "Content in your default language."
+msgstr "Inhalte in Ihrer Standardsprache."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1565
+#, fuzzy
+msgid "Please enter content that will be shown in each other language."
+msgstr ""
+"Bitte geben Sie Inhalte ein, die in der jeweils anderen Sprache angezeigt "
+"werden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1566
+#, fuzzy
+msgid "This color means currently active language."
+msgstr "Diese Farbe bedeutet die aktuell aktive Sprache."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1567
+#, fuzzy
+msgid "Language"
+msgstr "Sprache"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1567
+#, fuzzy
+msgid "Language code"
+msgstr "Sprachcode"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1567
+#, fuzzy
+msgid "New content"
+msgstr "Neuer Inhalt"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1589
+#, fuzzy
+msgid "Back to list"
+msgstr "Zurück zur Liste"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1604
+#, fuzzy
+msgid ""
+"The \"Text Replacement\" feature of Autoglot plugin lets you easily change pieces "
+"of content on your translated pages."
+msgstr ""
+"Mit der Funktion „Textersetzung“ des Autoglot-Plugins können Sie Inhalte "
+"auf Ihren übersetzten Seiten ganz einfach ändern."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1605
+#, fuzzy
+msgid "This can be useful for:"
+msgstr "Dies kann nützlich sein für:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1606
+#, fuzzy
+msgid ""
+"Displaying different affiliate or any other links on different language pages of "
+"your blog, e.g. <ins>https://www.amazon.com/product-one</ins> may be replaced "
+"with <ins>https://www.amazon.es/producto-uno</ins> on your Spanish pages."
+msgstr ""
+"Anzeigen verschiedener Affiliate- oder anderer Links auf verschiedenen "
+"Sprachseiten Ihres Blogs, z. B. <ins>https://www.amazon.com/product-one</ins> "
+"kann auf Ihren spanischen Seiten durch "
+"<ins>https://www.amazon.es/producto-uno</ins> ersetzt werden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1607
+#, fuzzy
+msgid ""
+"Embedding different videos on different language pages of your blog, e.g. "
+"youtube.com/watch?v=EnglishVideoCode may be replaced with "
+"youtube.com/watch?v=GermanVideoCode on your German pages."
+msgstr ""
+"Einbetten verschiedener Videos auf unterschiedlichen Sprachseiten Ihres Blogs, "
+"z.B. youtube.com/watch?v=EnglishVideoCode kann auf Ihren deutschen Seiten durch "
+"youtube.com/watch?v=GermanVideoCode ersetzt werden."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1608
+#, fuzzy
+msgid "And so on..."
+msgstr "Und so weiter..."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1610
+#, fuzzy
+msgid "* Please note, text replacement happens after translation of content."
+msgstr ""
+"* Bitte beachten Sie, dass die Textersetzung nach der Übersetzung des Inhalts "
+"erfolgt."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1614
+#, fuzzy
+msgid "# of replacement records"
+msgstr "Anzahl der Ersatzdatensätze"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1693
+#, fuzzy
+msgid "%d empty translation records have been deleted from DB."
+msgstr "%d leere Übersetzungsdatensätze wurden aus der Datenbank gelöscht."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1697 admin/autoglot_admin.php:1714
+#: admin/autoglot_admin.php:1774
+#, fuzzy
+msgid "Back to utilities page"
+msgstr "Zurück zur Seite „Dienstprogramme“."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/autoglot_admin.php:1710
+#, fuzzy
+msgid "%d duplicate translation records have been deleted from DB."
+msgstr "%d doppelte Übersetzungsdatensätze wurden aus der Datenbank gelöscht."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_dashboard.php:16
+#, fuzzy
+msgid "Autoglot Plugin Dashboard"
+msgstr "Autoglot-Plugin-Dashboard"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_dashboard.php:30
+#: admin/partials/display_settings.php:30 admin/partials/display_setup.php:36
+#: admin/partials/display_utilities.php:30
+#, fuzzy
+msgid "Your settings have been updated!"
+msgstr "Deine Einstellungen wurden aktualisiert!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_settings.php:16
+#, fuzzy
+msgid "Autoglot Plugin Settings"
+msgstr "Autoglot-Plugin-Einstellungen"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:16
+#, fuzzy
+msgid "Autoglot Plugin Setup Wizard"
+msgstr "Autoglot-Plugin-Setup-Assistent"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:18
+#, fuzzy
+msgid "Step 1. Setup your API Key."
+msgstr "Schritt 1. Richten Sie Ihren API-Schlüssel ein."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:19
+#, fuzzy
+msgid "Step 2. Choose Languages."
+msgstr "Schritt 2. Wählen Sie Sprachen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:20
+#, fuzzy
+msgid "Step 3. Plugin is Ready!"
+msgstr "Schritt 3. Das Plugin ist bereit!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:44
+#, fuzzy
+msgid "Skip Setup Wizard"
+msgstr "Überspringen Sie den Setup-Assistenten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:45
+#, fuzzy
+msgid "Reset and Restart"
+msgstr "Zurücksetzen und neu starten"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_setup.php:46
+#, fuzzy
+msgid "Save and continue"
+msgstr "Speichern und fortfahren"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: admin/partials/display_utilities.php:16
+#, fuzzy
+msgid "Autoglot Plugin Utilities"
+msgstr "Autoglot-Plugin-Dienstprogramme"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: autoglot.php:239
+#, fuzzy
+msgid "There was an error during installation or activation of Autoglot plugin:"
+msgstr ""
+"Bei der Installation oder Aktivierung des Autoglot-Plugins ist ein Fehler "
+"aufgetreten:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:133
+#, fuzzy
+msgid "Notification of Low Translation Balance"
+msgstr "Benachrichtigung über niedrigen Übersetzungssaldo"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:134
+#, fuzzy
+msgid "Hello site administrator!"
+msgstr "Hallo Site-Administrator!"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:135
+#, fuzzy
+msgid "This is a notification from Autoglot translation plugin installed on:"
+msgstr ""
+"Dies ist eine Benachrichtigung des Autoglot-Übersetzungs-Plugins, das "
+"installiert ist auf:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:137
+#, fuzzy
+msgid ""
+"Your translation balance is either too low or empty and therefore Autoglot "
+"cannot automatically translate new content. Although your WordPress site will "
+"continue to display your previously translated content, we suggest that you "
+"replenish your translation balance in your Autoglot Control Panel:"
+msgstr ""
+"Ihr Übersetzungsguthaben ist entweder zu niedrig oder leer und daher kann "
+"Autoglot neue Inhalte nicht automatisch übersetzen. Obwohl auf Ihrer "
+"WordPress-Site weiterhin Ihre zuvor übersetzten Inhalte angezeigt werden, "
+"empfehlen wir Ihnen, Ihr Übersetzungsguthaben in Ihrem Autoglot-Kontrollfeld "
+"aufzufüllen:"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:139
+#, fuzzy
+msgid ""
+"Once you increase your translation balance, we will continue automatically "
+"translating your WordPress website."
+msgstr ""
+"Sobald Sie Ihr Übersetzungsguthaben erhöhen, werden wir Ihre WordPress-Website "
+"weiterhin automatisch übersetzen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:140
+#, fuzzy
+msgid "Best Regards,"
+msgstr "Beste grüße,"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_curl.php:145
+#, fuzzy
+msgid ""
+"Failed to send e-mail notification, function \"wp_mail\" not found. Your "
+"translation balance is either too low or empty and therefore Autoglot cannot "
+"automatically translate new content."
+msgstr ""
+"E-Mail-Benachrichtigung konnte nicht gesendet werden, Funktion „wp_mail“ "
+"nicht gefunden. Ihr Übersetzungsguthaben ist entweder zu niedrig oder leer und "
+"daher kann Autoglot neue Inhalte nicht automatisch übersetzen."
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_widget.php:28
+#, fuzzy
+msgid "Autoglot WP Translation Widget"
+msgstr "Autoglot WP-Übersetzungs-Widget"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_widget.php:55
+#, fuzzy
+msgid "Widget Title"
+msgstr "Widget-Titel"
+
+# Translated automatically by Autoglot [autoglot.com]
+#: utils/autoglot_widget.php:61
+#, fuzzy
+msgid "Selector Style"
+msgstr "Auswahlstil"

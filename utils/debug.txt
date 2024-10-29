@@ -1,0 +1,8 @@
+http://wptest/wordpress/de/cart/ - http://wptest/wordpress/de/cart/
+
+http://wptest/wordpress/de/cart/ - http://wptest/wordpress/de/cart/
+
+http://wptest/wordpress/cart/ - http://wptest/wordpress/cart/
+
+http://wptest/wordpress/cart/ - http://wptest/wordpress/cart/
+

@@ -1,0 +1,1321 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Autoglot Plugin\n"
+"POT-Creation-Date: 2023-08-31 15:51+0300\n"
+"PO-Revision-Date: 2020-04-21 17:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/autoglot_admin.php:172
+msgid ""
+"There was an error during installation or activation of Autoglot plugin: "
+"Autoglot table has not been created in DB. Please contact site administrator "
+"or Autoglot support."
+msgstr ""
+
+#: admin/autoglot_admin.php:185
+msgid "Autoglot Setup"
+msgstr ""
+
+#: admin/autoglot_admin.php:218
+msgid "Autoglot Dashboard"
+msgstr ""
+
+#: admin/autoglot_admin.php:219 admin/autoglot_admin.php:1225
+msgid "Dashboard"
+msgstr ""
+
+#: admin/autoglot_admin.php:232 admin/autoglot_admin.php:233
+#: admin/autoglot_admin.php:1226
+msgid "Settings"
+msgstr ""
+
+#: admin/autoglot_admin.php:245 admin/autoglot_admin.php:246
+#: admin/autoglot_admin.php:412 admin/autoglot_admin.php:1227
+msgid "Languages"
+msgstr ""
+
+#: admin/autoglot_admin.php:258 admin/autoglot_admin.php:259
+msgid "Advanced"
+msgstr ""
+
+#: admin/autoglot_admin.php:272 admin/autoglot_admin.php:273
+msgid "Links Modifier"
+msgstr ""
+
+#: admin/autoglot_admin.php:286 admin/autoglot_admin.php:287
+#: admin/autoglot_admin.php:1466 admin/autoglot_admin.php:1507
+msgid "Text Replacement"
+msgstr ""
+
+#: admin/autoglot_admin.php:296 admin/autoglot_admin.php:297
+msgid "Utilities"
+msgstr ""
+
+#: admin/autoglot_admin.php:309 admin/autoglot_admin.php:310
+msgid "Delete Empty Translation"
+msgstr ""
+
+#: admin/autoglot_admin.php:322 admin/autoglot_admin.php:323
+msgid "Delete Duplicate Translation"
+msgstr ""
+
+#: admin/autoglot_admin.php:335 admin/autoglot_admin.php:336
+msgid "Backup Translation Table"
+msgstr ""
+
+#: admin/autoglot_admin.php:410
+msgid "Main Configuration"
+msgstr ""
+
+#: admin/autoglot_admin.php:411
+msgid "Language Switcher"
+msgstr ""
+
+#: admin/autoglot_admin.php:413
+msgid "Flags"
+msgstr ""
+
+#: admin/autoglot_admin.php:414
+msgid "Translation Settings"
+msgstr ""
+
+#: admin/autoglot_admin.php:415
+msgid "Output Settings"
+msgstr ""
+
+#: admin/autoglot_admin.php:416
+msgid "Language Code Insertion"
+msgstr ""
+
+#: admin/autoglot_admin.php:417
+msgid "Useful Plugin Utilities"
+msgstr ""
+
+#: admin/autoglot_admin.php:418
+msgid "Delete Empty Translations"
+msgstr ""
+
+#: admin/autoglot_admin.php:419
+msgid "Delete Duplicate Translations"
+msgstr ""
+
+#: admin/autoglot_admin.php:420
+msgid "Backup Translation DB"
+msgstr ""
+
+#: admin/autoglot_admin.php:431 admin/autoglot_admin.php:569
+msgid ""
+"Autoglot is a plugin for a WordPress platform that makes your website or "
+"blog SEO-friendly multilingual and translates all your content automatically "
+"using the best neural machine translation solutions."
+msgstr ""
+
+#: admin/autoglot_admin.php:432
+msgid ""
+"Thank you for choosing <strong>Autoglot Translation plugin</strong>. This "
+"quick setup wizard will help you configure the basic settings. Let's start "
+"with your API key!"
+msgstr ""
+
+#: admin/autoglot_admin.php:433
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Please register in our Autoglot Control "
+"Panel</a> and receive your unique API key. This key should be kept secret "
+"and never shared with anyone."
+msgstr ""
+
+#: admin/autoglot_admin.php:433
+msgid ""
+"Registration is free and takes only a few moments. You don't need a credit "
+"card, any payment or subscription to get your API key."
+msgstr ""
+
+#: admin/autoglot_admin.php:437
+msgid ""
+"Please setup your languages here. You can choose as many languages as you "
+"want but we recommend that you start with only one language."
+msgstr ""
+
+#: admin/autoglot_admin.php:437
+msgid "You may skip this step and choose languages for translation later."
+msgstr ""
+
+#: admin/autoglot_admin.php:440
+msgid ""
+"<strong>Autoglot plugin has been successfully configured and is now ready to "
+"translate your website!</strong> Please use the links below to access "
+"dashboard or open your website:"
+msgstr ""
+
+#: admin/autoglot_admin.php:447
+msgid ""
+"<strong>Open your website in chosen languages!</strong> Please be aware of "
+"your balance. We recommend that you start with one language and once "
+"satisfied, proceed with more languages:"
+msgstr ""
+
+#: admin/autoglot_admin.php:454
+msgid ""
+"<strong>You have not selected languages for translation.</strong> No "
+"worries, you may do so later on language settings page:"
+msgstr ""
+
+#: admin/autoglot_admin.php:455
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-admin-site\"></i> Language Settings</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:460
+msgid ""
+"<strong>You may want to add an Autoglot language switcher to your widgets.</"
+"strong> This will let your visitors switch site languages. This widget can "
+"be added to almost any widgets area: sidebars, footers, etc."
+msgstr ""
+
+#: admin/autoglot_admin.php:461 admin/autoglot_admin.php:671
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"button\" target=\"_blank\"><i class=\"dashicons "
+"dashicons-screenoptions\"></i> Setup Autoglot Widget</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:465 admin/autoglot_admin.php:674
+msgid ""
+"<strong>Your theme currently does not support widgets.</strong> No worries, "
+"Autoglot will function without widgets area. You may add language switcher "
+"in popup or as a shortcode via Autoglot Dashboard."
+msgstr ""
+
+#: admin/autoglot_admin.php:470
+msgid ""
+"<strong>Autoglot translation has not been enabled.</strong> Before trying "
+"and testing plugin you should enable Autoglot translation in main settings:"
+msgstr ""
+
+#: admin/autoglot_admin.php:471
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons dashicons-admin-"
+"settings\"></i> Main Settings</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:474
+msgid ""
+"<strong>Autoglot Dashboard is the main place to start.</strong> This will "
+"display your translation statistics, available balance (number of words you "
+"can translate), and other useful statistics:"
+msgstr ""
+
+#: admin/autoglot_admin.php:475
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"button\"><i class=\"dashicons dashicons-analytics\"></"
+"i> Autoglot Dashboard</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:494
+msgid "Autoglot Account Stats"
+msgstr ""
+
+#: admin/autoglot_admin.php:496
+msgid "Statistics of your Autoglot account."
+msgstr ""
+
+#: admin/autoglot_admin.php:498
+msgid "Translation balance"
+msgstr ""
+
+#: admin/autoglot_admin.php:500
+msgid ""
+"Your current Autoglot translation balance (number of words you can "
+"translate):"
+msgstr ""
+
+#: admin/autoglot_admin.php:502
+#, php-format
+msgid ""
+"You can replenish your translation balance in your <a href=\"%s\" "
+"target=\"_blank\" class=\"button\">Autoglot Control Panel</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:506
+msgid "We could not connect to Autoglot API with your API key."
+msgstr ""
+
+#: admin/autoglot_admin.php:506 admin/autoglot_admin.php:1203
+#, php-format
+msgid ""
+"Please login to <a href=\"%s\" target=\"_blank\">Autoglot Control Panel</a> "
+"and retrieve your API key."
+msgstr ""
+
+#: admin/autoglot_admin.php:506 admin/autoglot_admin.php:511
+#, php-format
+msgid ""
+"Please then set your API key in <a href=\"%s\">Autoglot Settings Page</a>."
+msgstr ""
+
+#: admin/autoglot_admin.php:511 admin/autoglot_admin.php:1200
+msgid ""
+"You have not set up your API key! Autoglot Translation Plugin will not "
+"translate your content without a correct API key."
+msgstr ""
+
+#: admin/autoglot_admin.php:511 admin/autoglot_admin.php:1200
+#, php-format
+msgid ""
+"You can get your API key in your <a href=\"%s\" target=\"_blank\">Autoglot "
+"Control Panel</a>."
+msgstr ""
+
+#: admin/autoglot_admin.php:515
+msgid "Autoglot Plugin Stats"
+msgstr ""
+
+#: admin/autoglot_admin.php:516
+msgid "Status of Autoglot plugin."
+msgstr ""
+
+#: admin/autoglot_admin.php:518
+msgid "Autoglot plugin status"
+msgstr ""
+
+#: admin/autoglot_admin.php:520
+msgid "Valid API key:"
+msgstr ""
+
+#: admin/autoglot_admin.php:520
+msgid "Please set up your API key here."
+msgstr ""
+
+#: admin/autoglot_admin.php:521
+msgid "Autoglot plugin enabled:"
+msgstr ""
+
+#: admin/autoglot_admin.php:521
+msgid "Click here to enable translation."
+msgstr ""
+
+#: admin/autoglot_admin.php:522
+msgid "Translation available to every visitor:"
+msgstr ""
+
+#: admin/autoglot_admin.php:522
+msgid "Translation is visible for administrator only."
+msgstr ""
+
+#: admin/autoglot_admin.php:522
+msgid "Click here to enable translation for everyone."
+msgstr ""
+
+#: admin/autoglot_admin.php:523
+msgid "Translation languages enabled:"
+msgstr ""
+
+#: admin/autoglot_admin.php:523
+msgid "Click here to activate languages."
+msgstr ""
+
+#: admin/autoglot_admin.php:524
+msgid "Language switcher enabled:"
+msgstr ""
+
+#: admin/autoglot_admin.php:525
+#, php-format
+msgid "<a href=\"%1$s\">Autoglot widget</a> is active."
+msgstr ""
+
+#: admin/autoglot_admin.php:525
+#, php-format
+msgid "<a href=\"%1$s\">Autoglot widget</a> is not active."
+msgstr ""
+
+#: admin/autoglot_admin.php:525
+msgid "Widgets are not supported."
+msgstr ""
+
+#: admin/autoglot_admin.php:526
+#, php-format
+msgid "<a href=\"%s\">Floating language switcher</a> is active."
+msgstr ""
+
+#: admin/autoglot_admin.php:526
+#, php-format
+msgid "<a href=\"%2$s\">Floating language switcher</a> is not active."
+msgstr ""
+
+#: admin/autoglot_admin.php:528
+msgid "Statistics of Autoglot plugin usage."
+msgstr ""
+
+#: admin/autoglot_admin.php:530
+msgid "Translation DB stats"
+msgstr ""
+
+#: admin/autoglot_admin.php:533
+msgid "Number of records in Autoglot translation DB:"
+msgstr ""
+
+#: admin/autoglot_admin.php:534
+msgid "Number of unique phrases in Autoglot translation DB:"
+msgstr ""
+
+#: admin/autoglot_admin.php:535
+msgid "Number of translated words in Autoglot translation DB:"
+msgstr ""
+
+#: admin/autoglot_admin.php:536
+msgid "Number of unique languages in Autoglot translation DB:"
+msgstr ""
+
+#: admin/autoglot_admin.php:537
+msgid "Total size of Autoglot translation DB:"
+msgstr ""
+
+#: admin/autoglot_admin.php:538
+msgid "Most recent translation:"
+msgstr ""
+
+#: admin/autoglot_admin.php:540
+msgid "Statistics of Autoglot plugin settings."
+msgstr ""
+
+#: admin/autoglot_admin.php:542
+msgid "Plugin settings stats"
+msgstr ""
+
+#: admin/autoglot_admin.php:544
+msgid "Number of active languages (including default):"
+msgstr ""
+
+#: admin/autoglot_admin.php:545
+msgid "Number of all available languages:"
+msgstr ""
+
+#: admin/autoglot_admin.php:546
+msgid "Plugin version:"
+msgstr ""
+
+#: admin/autoglot_admin.php:547
+msgid "Active languages:"
+msgstr ""
+
+#: admin/autoglot_admin.php:557
+msgid "Your Feedback"
+msgstr ""
+
+#: admin/autoglot_admin.php:558
+msgid ""
+"Your feedback provides us with key information about what you think as a "
+"user of our plugin and helps us make informed decisions about future "
+"enhancements; it also helps us identify area where we are doing a good job "
+"and where we need to improve."
+msgstr ""
+
+#: admin/autoglot_admin.php:559
+msgid ""
+"If you enjoy our plugin, please do not hesitate to rate us and submit your "
+"feedback. It's always much appreciated!"
+msgstr ""
+
+#: admin/autoglot_admin.php:560
+msgid "Rate this plugin"
+msgstr ""
+
+#: admin/autoglot_admin.php:568
+msgid "About Autoglot"
+msgstr ""
+
+#: admin/autoglot_admin.php:570
+msgid "Learn more about Autoglot using the links below:"
+msgstr ""
+
+#: admin/autoglot_admin.php:572
+msgid "Official Website"
+msgstr ""
+
+#: admin/autoglot_admin.php:573
+msgid "Pricing Information"
+msgstr ""
+
+#: admin/autoglot_admin.php:574
+msgid "Control Panel"
+msgstr ""
+
+#: admin/autoglot_admin.php:575
+msgid "Official Documentation"
+msgstr ""
+
+#: admin/autoglot_admin.php:580
+msgid "Autoglot Support"
+msgstr ""
+
+#: admin/autoglot_admin.php:581
+msgid ""
+"Do you need some help with our plugin? Or you may want to ask us a question, "
+"offer an idea, or request some assistance."
+msgstr ""
+
+#: admin/autoglot_admin.php:582
+msgid ""
+"Our support team is always eager to help you get the most out of Autoglot "
+"plugin by answering your support questions, preventing possible issues, and "
+"helping you resolve all technical questions."
+msgstr ""
+
+#: admin/autoglot_admin.php:584
+msgid "There are a few channels to request help from us:"
+msgstr ""
+
+#: admin/autoglot_admin.php:586
+msgid "Support Ticket"
+msgstr ""
+
+#: admin/autoglot_admin.php:587
+msgid "WordPress Forums"
+msgstr ""
+
+#: admin/autoglot_admin.php:589
+msgid "Facebook Page"
+msgstr ""
+
+#: admin/autoglot_admin.php:590
+msgid "Twitter Profile"
+msgstr ""
+
+#: admin/autoglot_admin.php:591
+msgid "LinkedIn Community"
+msgstr ""
+
+#: admin/autoglot_admin.php:664
+msgid "These are settings for the basic configuration of Autoglot plugin."
+msgstr ""
+
+#: admin/autoglot_admin.php:668
+msgid "Widget"
+msgstr ""
+
+#: admin/autoglot_admin.php:670
+msgid ""
+"Autoglot provides a useful widget that lets your visitors switch languages "
+"and open appropriate version of your website. You can find our widget in "
+"your WordPress widget area by searching for \"Autoglot\"."
+msgstr ""
+
+#: admin/autoglot_admin.php:677
+msgid "Shortcode"
+msgstr ""
+
+#: admin/autoglot_admin.php:678
+#, php-format
+msgid ""
+"Alternatively, you can use a <code>%s</code> shortcode to add a language "
+"switcher to your website posts, pages, popups, etc."
+msgstr ""
+
+#: admin/autoglot_admin.php:679
+#, php-format
+msgid ""
+"Add a \"%s\" argument if you want to set a custom title of this box: "
+"<code>%s</code>."
+msgstr ""
+
+#: admin/autoglot_admin.php:680
+#, php-format
+msgid "Use a \"%s\" argument in order to select a type of language switcher:"
+msgstr ""
+
+#: admin/autoglot_admin.php:682
+#, php-format
+msgid "<code>%s</code> &ndash; small flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:683
+#, php-format
+msgid "<code>%s</code> &ndash; large flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:684
+#, php-format
+msgid "<code>%s</code> &ndash; list of languages with flags."
+msgstr ""
+
+#: admin/autoglot_admin.php:685
+#, php-format
+msgid "<code>%s</code> &ndash; list of languages without flags (default)."
+msgstr ""
+
+#: admin/autoglot_admin.php:688
+msgid "Popup"
+msgstr ""
+
+#: admin/autoglot_admin.php:689
+msgid ""
+"Finally, you can enable a popup language switcher. This will add a floating "
+"box to your website. By clicking on this box, users will see a popup window "
+"with language switcher. This is the best solution if you don't want to add "
+"widgets or shortcodes to your website."
+msgstr ""
+
+#: admin/autoglot_admin.php:693
+msgid "Please setup your languages here."
+msgstr ""
+
+#: admin/autoglot_admin.php:697
+msgid "Please choose the most appropriate flags for a language switcher."
+msgstr ""
+
+#: admin/autoglot_admin.php:701
+msgid "These are advanced translation settings. Please use with caution!"
+msgstr ""
+
+#: admin/autoglot_admin.php:705
+msgid "These are advanced output settings. Please use with caution!"
+msgstr ""
+
+#: admin/autoglot_admin.php:709
+msgid ""
+"You can add current language code to any link or text on your website. "
+"Default language does not update or replace any link."
+msgstr ""
+
+#: admin/autoglot_admin.php:710
+#, php-format
+msgid ""
+"The <code>%s</code> shortcode in your updated link will be replaced by "
+"current language code e.g. \"es\", \"de\", \"el\", \"da\", \"sv\"."
+msgstr ""
+
+#: admin/autoglot_admin.php:711
+#, php-format
+msgid ""
+"The <code>%s</code> shortcode in your updated link will be replaced by top "
+"level domain extension of the country e.g. \"es\", \"de\", \"gr\", \"dk\", "
+"\"se\", etc."
+msgstr ""
+
+#: admin/autoglot_admin.php:712
+#, php-format
+msgid ""
+"For example, if you want to replace all links to wikipedia.com to the "
+"corresponding pages of es.wikipedia.org on the Spanish version of your "
+"website, you would enter <code>en.wikipedia.com</code> in the \"Original "
+"Link\" box and <code>%s.wikipedia.com</code> in the \"Updated Link\" box."
+msgstr ""
+
+#: admin/autoglot_admin.php:713
+msgid ""
+"As a result, a link to <ins>https://en.wikipedia.org/wiki/WordPress</ins> in "
+"your English version will be replaced with <ins>https://es.wikipedia.org/"
+"wiki/WordPress</ins> on the Spanish version of your website; <ins>https://de."
+"wikipedia.org/wiki/WordPress</ins> on the German version, etc."
+msgstr ""
+
+#: admin/autoglot_admin.php:714
+msgid ""
+"* This will not update your original blog posts. Links will be replaced only "
+"before the output on non-default languages."
+msgstr ""
+
+#: admin/autoglot_admin.php:715
+msgid ""
+"* These shortcodes work only for these settings. They will not work anywhere "
+"else and cannot be used on your blog posts."
+msgstr ""
+
+#: admin/autoglot_admin.php:716
+msgid ""
+"* Make sure to use the correct text in \"Original Link\" box. If you enter "
+"<code>wikipedia.com</code>, you will have <ins>en.es.wikipedia.com</ins> on "
+"your website. Correct option is <code>en.wikipedia.com</code>."
+msgstr ""
+
+#: admin/autoglot_admin.php:721
+msgid "Use these utilities for plugin maintainance."
+msgstr ""
+
+#: admin/autoglot_admin.php:725
+#, php-format
+msgid ""
+"We found %d empty translation records in DB. You can safely remove them for "
+"better DB performance."
+msgstr ""
+
+#: admin/autoglot_admin.php:726
+msgid "Delete empty translation from DB"
+msgstr ""
+
+#: admin/autoglot_admin.php:727
+msgid "This will remove all empty translation records from DB."
+msgstr ""
+
+#: admin/autoglot_admin.php:729 admin/autoglot_admin.php:1695
+msgid "No empty translations found in DB. This is great!"
+msgstr ""
+
+#: admin/autoglot_admin.php:734
+#, php-format
+msgid ""
+"We found %d duplicate translation records in DB. You can safely remove them "
+"for better DB performance."
+msgstr ""
+
+#: admin/autoglot_admin.php:735
+msgid "Delete duplicate translation from DB"
+msgstr ""
+
+#: admin/autoglot_admin.php:736
+msgid ""
+"Sometimes, duplicate translation records may appear due to poor connection "
+"between WordPress and Autoglot servers. This will remove all duplicates "
+"except for the most recent one."
+msgstr ""
+
+#: admin/autoglot_admin.php:738 admin/autoglot_admin.php:1712
+msgid "No duplicate translations found in DB. This is great!"
+msgstr ""
+
+#: admin/autoglot_admin.php:742
+msgid "Backup Translations Table"
+msgstr ""
+
+#: admin/autoglot_admin.php:743
+msgid "Backup translations"
+msgstr ""
+
+#: admin/autoglot_admin.php:744
+msgid ""
+"This will generate an SQL file with the backup of your translation table. "
+"This may take some time and require server resources! Keep in cool and dry "
+"place."
+msgstr ""
+
+#: admin/autoglot_admin.php:788 admin/autoglot_admin.php:944
+msgid "Default Language"
+msgstr ""
+
+#: admin/autoglot_admin.php:791 admin/autoglot_admin.php:947
+msgid ""
+"Please choose a default language of your site. We will not add language code "
+"to the URL of default language."
+msgstr ""
+
+#: admin/autoglot_admin.php:799 admin/autoglot_admin.php:955
+msgid "Choose Active Languages"
+msgstr ""
+
+#: admin/autoglot_admin.php:814 admin/autoglot_admin.php:907
+msgid "Autoglot API key"
+msgstr ""
+
+#: admin/autoglot_admin.php:818 admin/autoglot_admin.php:911
+msgid "Your API key"
+msgstr ""
+
+#: admin/autoglot_admin.php:819
+#, php-format
+msgid ""
+"You can get your free API key in your <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:826 admin/autoglot_admin.php:878
+msgid "Enable Translation"
+msgstr ""
+
+#: admin/autoglot_admin.php:831
+msgid "By default, only signed-in administrator will see the translation."
+msgstr ""
+
+#: admin/autoglot_admin.php:833 admin/autoglot_admin.php:885
+msgid "Click this checkbox to enable Autoglot translation."
+msgstr ""
+
+#: admin/autoglot_admin.php:840
+msgid "Enable Language Switcher"
+msgstr ""
+
+#: admin/autoglot_admin.php:846
+msgid "Enable language switcher popup."
+msgstr ""
+
+#: admin/autoglot_admin.php:847
+msgid ""
+"Disable language switcher popup. You can still use widgets and shortcodes."
+msgstr ""
+
+#: admin/autoglot_admin.php:859
+msgid "1 minute"
+msgstr ""
+
+#: admin/autoglot_admin.php:860
+msgid "10 minutes"
+msgstr ""
+
+#: admin/autoglot_admin.php:861
+msgid "30 minutes"
+msgstr ""
+
+#: admin/autoglot_admin.php:862
+msgid "1 hour"
+msgstr ""
+
+#: admin/autoglot_admin.php:863
+msgid "12 hours"
+msgstr ""
+
+#: admin/autoglot_admin.php:864
+msgid "1 day"
+msgstr ""
+
+#: admin/autoglot_admin.php:865
+msgid "1 week"
+msgstr ""
+
+#: admin/autoglot_admin.php:866
+msgid "1 month"
+msgstr ""
+
+#: admin/autoglot_admin.php:869 utils/autoglot_widget.php:66
+msgid "List of Languages"
+msgstr ""
+
+#: admin/autoglot_admin.php:870 utils/autoglot_widget.php:67
+msgid "List of Languages and Flags"
+msgstr ""
+
+#: admin/autoglot_admin.php:871 utils/autoglot_widget.php:68
+msgid "Box with Flags"
+msgstr ""
+
+#: admin/autoglot_admin.php:872 utils/autoglot_widget.php:69
+msgid "Box with Small Flags"
+msgstr ""
+
+#: admin/autoglot_admin.php:883
+msgid "Please do not forget to choose languages on next page."
+msgstr ""
+
+#: admin/autoglot_admin.php:892
+msgid "Translation for Admin Only"
+msgstr ""
+
+#: admin/autoglot_admin.php:896
+msgid ""
+"This can be useful to check translation by admin before publishing it for "
+"all visitors. This will hide \"alternate hreflang\" block and will make "
+"widget visible only for admin."
+msgstr ""
+
+#: admin/autoglot_admin.php:899
+msgid "Site admin will be the only one to see and use Autoglot translation."
+msgstr ""
+
+#: admin/autoglot_admin.php:900
+msgid "Translation will be available to every user."
+msgstr ""
+
+#: admin/autoglot_admin.php:912
+#, php-format
+msgid ""
+"You can get your API key in your <a href=\"%s\" target=\"_blank\">Autoglot "
+"Control Panel</a>"
+msgstr ""
+
+#: admin/autoglot_admin.php:919
+msgid "Enable Floating Language Switcher"
+msgstr ""
+
+#: admin/autoglot_admin.php:923
+msgid "You can adjust custom CSS with id #ag_floatblox."
+msgstr ""
+
+#: admin/autoglot_admin.php:925
+msgid "Enable floating box that will open language switcher popup."
+msgstr ""
+
+#: admin/autoglot_admin.php:926
+msgid "Disable floating box. You can still use widgets and shortcodes."
+msgstr ""
+
+#: admin/autoglot_admin.php:933
+msgid "Type of Language Switcher in Popup"
+msgstr ""
+
+#: admin/autoglot_admin.php:936
+msgid "Type of language switcher in popup."
+msgstr ""
+
+#: admin/autoglot_admin.php:965
+msgid "Translation Priority"
+msgstr ""
+
+#: admin/autoglot_admin.php:969
+msgid ""
+"If you choose to translate before page generation, certain plugins may add "
+"content after translation that will be shown in default language.<br />If "
+"you choose to translate after page generation, all content will be "
+"translated. However, if a plugin alters content often, it will be often re-"
+"translated that may cause additional charges."
+msgstr ""
+
+#: admin/autoglot_admin.php:972
+msgid "Translate After Page Generation (recommended!)"
+msgstr ""
+
+#: admin/autoglot_admin.php:973
+msgid "Translate Before Page Generation"
+msgstr ""
+
+#: admin/autoglot_admin.php:980
+msgid "Additional Strings for Translation"
+msgstr ""
+
+#: admin/autoglot_admin.php:983
+msgid "String that is not translated."
+msgstr ""
+
+#: admin/autoglot_admin.php:985
+msgid ""
+"Please enter strings that are not automatically translated. They can be hard-"
+"coded in plugins, themes, or even functions. Please include all HTML code, "
+"if necessary."
+msgstr ""
+
+#: admin/autoglot_admin.php:992
+msgid "Resend Low Balance Notifications"
+msgstr ""
+
+#: admin/autoglot_admin.php:995
+msgid ""
+"How often to send low balance notifications to admin e-mail. Minimum delay "
+"before resending a notification."
+msgstr ""
+
+#: admin/autoglot_admin.php:1005
+msgid "Show \"alternate hreflang\" Block"
+msgstr ""
+
+#: admin/autoglot_admin.php:1009
+msgid ""
+"Show section with \"alternate hreflang\" links to other languages on each "
+"page."
+msgstr ""
+
+#: admin/autoglot_admin.php:1012
+msgid "Show hreflangs"
+msgstr ""
+
+#: admin/autoglot_admin.php:1013
+msgid "Hide hreflangs"
+msgstr ""
+
+#: admin/autoglot_admin.php:1020
+msgid "Show custom HTML titles on certain pages"
+msgstr ""
+
+#: admin/autoglot_admin.php:1024
+msgid ""
+"Show custom (almost WordPress default) HTML titles on search results, "
+"categories, tags, taxonomies, and archive pages. These titles will be "
+"generated by Autoglot in order to minimize translation costs. Otherwise, "
+"each title will be translated for each tag, category, and even search "
+"request."
+msgstr ""
+
+#: admin/autoglot_admin.php:1027
+msgid "Show custom Autoglot titles"
+msgstr ""
+
+#: admin/autoglot_admin.php:1028
+msgid "Show default titles (by WordPress or SEO plugin)"
+msgstr ""
+
+#: admin/autoglot_admin.php:1035
+msgid "Improve Content After Translation"
+msgstr ""
+
+#: admin/autoglot_admin.php:1039
+msgid ""
+"Manualy call wptexturize() funciton after translation. This is default for "
+"Wordpress."
+msgstr ""
+
+#: admin/autoglot_admin.php:1042
+msgid "Use wptexturize()"
+msgstr ""
+
+#: admin/autoglot_admin.php:1043
+msgid "Skip wptexturize()"
+msgstr ""
+
+#: admin/autoglot_admin.php:1050
+msgid "Show Widget Signature"
+msgstr ""
+
+#: admin/autoglot_admin.php:1054
+msgid ""
+"Show \"Powered by\" widget signature with a link to official Autoglot.com "
+"website."
+msgstr ""
+
+#: admin/autoglot_admin.php:1057
+msgid "Show"
+msgstr ""
+
+#: admin/autoglot_admin.php:1058
+msgid "Hide"
+msgstr ""
+
+#: admin/autoglot_admin.php:1065
+msgid "Decrease Page Priorities in Sitemap"
+msgstr ""
+
+#: admin/autoglot_admin.php:1068
+msgid ""
+"Reduce translated page priority in sitemaps. Not compatible with every "
+"sitemap generation plugin."
+msgstr ""
+
+#: admin/autoglot_admin.php:1076
+msgid "Links or Text For Replacement"
+msgstr ""
+
+#: admin/autoglot_admin.php:1080
+msgid "Original Links or Text, one per line."
+msgstr ""
+
+#: admin/autoglot_admin.php:1080
+msgid "Replaced Links or Text, one per line"
+msgstr ""
+
+#: admin/autoglot_admin.php:1200 admin/autoglot_admin.php:1203
+#, php-format
+msgid ""
+"Please then set you API key in <a href=\"%s\">Autoglot Settings Page</a>."
+msgstr ""
+
+#: admin/autoglot_admin.php:1203
+msgid ""
+"We could not connect to Autoglot API with your API key and received the "
+"following response:"
+msgstr ""
+
+#: admin/autoglot_admin.php:1206
+#, php-format
+msgid ""
+"Your Autoglot translation balance is empty. Please login to <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a> and replenish your translation "
+"balance."
+msgstr ""
+
+#: admin/autoglot_admin.php:1209
+#, php-format
+msgid ""
+"Your Autoglot translation balance is low. Please login to <a href=\"%s\" "
+"target=\"_blank\">Autoglot Control Panel</a> and replenish your translation "
+"balance."
+msgstr ""
+
+#: admin/autoglot_admin.php:1234
+msgid "Set up your API key here to start"
+msgstr ""
+
+#: admin/autoglot_admin.php:1263 admin/autoglot_admin.php:1264
+msgid "Total Number of Lines:"
+msgstr ""
+
+#: admin/autoglot_admin.php:1304
+msgid "Check all"
+msgstr ""
+
+#: admin/autoglot_admin.php:1304
+msgid "Uncheck all"
+msgstr ""
+
+#: admin/autoglot_admin.php:1360
+msgid "Your API key is not valid."
+msgstr ""
+
+#: admin/autoglot_admin.php:1360
+msgid "Please login to Autoglot Control Panel and retrieve your API key."
+msgstr ""
+
+#: admin/autoglot_admin.php:1444
+msgid "Add New Text Replacement Record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1445
+msgid "Add New Text Replacement"
+msgstr ""
+
+#: admin/autoglot_admin.php:1446
+msgid "New Item"
+msgstr ""
+
+#: admin/autoglot_admin.php:1447
+msgid "Edit Record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1448
+msgid "Update Record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1449
+msgid "View Record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1450
+msgid "View Records"
+msgstr ""
+
+#: admin/autoglot_admin.php:1451
+msgid "Search Records"
+msgstr ""
+
+#: admin/autoglot_admin.php:1452
+msgid "Not found"
+msgstr ""
+
+#: admin/autoglot_admin.php:1453
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/autoglot_admin.php:1458
+msgid "Insert into item"
+msgstr ""
+
+#: admin/autoglot_admin.php:1460
+msgid "Items list"
+msgstr ""
+
+#: admin/autoglot_admin.php:1461
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/autoglot_admin.php:1462
+msgid "Filter items list"
+msgstr ""
+
+#: admin/autoglot_admin.php:1465
+msgid "Text Record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1490
+msgid "Please enter the name of your text record"
+msgstr ""
+
+#: admin/autoglot_admin.php:1499
+msgid ""
+"Please choose a name of your text record (only visible for site "
+"administrator), content in your default language that will be replaced, and "
+"content for each language where you want your content replaced. If you don't "
+"set a new content for any particular language, default content will be "
+"displayed."
+msgstr ""
+
+#: admin/autoglot_admin.php:1531
+msgid ""
+"Warning: you have not specified default language content that should be "
+"replaced. That's OK, we will save the record but it will not work."
+msgstr ""
+
+#: admin/autoglot_admin.php:1563
+msgid ""
+"Please enter content that should be replaced when switching to another "
+"language."
+msgstr ""
+
+#: admin/autoglot_admin.php:1564
+msgid "Content in your default language."
+msgstr ""
+
+#: admin/autoglot_admin.php:1565
+msgid "Please enter content that will be shown in each other language."
+msgstr ""
+
+#: admin/autoglot_admin.php:1566
+msgid "This color means currently active language."
+msgstr ""
+
+#: admin/autoglot_admin.php:1567
+msgid "Language"
+msgstr ""
+
+#: admin/autoglot_admin.php:1567
+msgid "Language code"
+msgstr ""
+
+#: admin/autoglot_admin.php:1567
+msgid "New content"
+msgstr ""
+
+#: admin/autoglot_admin.php:1589
+msgid "Back to list"
+msgstr ""
+
+#: admin/autoglot_admin.php:1604
+msgid ""
+"The \"Text Replacement\" feature of Autoglot plugin lets you easily change "
+"pieces of content on your translated pages."
+msgstr ""
+
+#: admin/autoglot_admin.php:1605
+msgid "This can be useful for:"
+msgstr ""
+
+#: admin/autoglot_admin.php:1606
+msgid ""
+"Displaying different affiliate or any other links on different language "
+"pages of your blog, e.g. <ins>https://www.amazon.com/product-one</ins> may "
+"be replaced with <ins>https://www.amazon.es/producto-uno</ins> on your "
+"Spanish pages."
+msgstr ""
+
+#: admin/autoglot_admin.php:1607
+msgid ""
+"Embedding different videos on different language pages of your blog, e.g. "
+"youtube.com/watch?v=EnglishVideoCode may be replaced with youtube.com/watch?"
+"v=GermanVideoCode on your German pages."
+msgstr ""
+
+#: admin/autoglot_admin.php:1608
+msgid "And so on..."
+msgstr ""
+
+#: admin/autoglot_admin.php:1610
+msgid "* Please note, text replacement happens after translation of content."
+msgstr ""
+
+#: admin/autoglot_admin.php:1614
+msgid "# of replacement records"
+msgstr ""
+
+#: admin/autoglot_admin.php:1693
+#, php-format
+msgid "%d empty translation records have been deleted from DB."
+msgstr ""
+
+#: admin/autoglot_admin.php:1697 admin/autoglot_admin.php:1714
+#: admin/autoglot_admin.php:1774
+msgid "Back to utilities page"
+msgstr ""
+
+#: admin/autoglot_admin.php:1710
+#, php-format
+msgid "%d duplicate translation records have been deleted from DB."
+msgstr ""
+
+#: admin/partials/display_dashboard.php:16
+msgid "Autoglot Plugin Dashboard"
+msgstr ""
+
+#: admin/partials/display_dashboard.php:30
+#: admin/partials/display_settings.php:30 admin/partials/display_setup.php:36
+#: admin/partials/display_utilities.php:30
+msgid "Your settings have been updated!"
+msgstr ""
+
+#: admin/partials/display_settings.php:16
+msgid "Autoglot Plugin Settings"
+msgstr ""
+
+#: admin/partials/display_setup.php:16
+msgid "Autoglot Plugin Setup Wizard"
+msgstr ""
+
+#: admin/partials/display_setup.php:18
+msgid "Step 1. Setup your API Key."
+msgstr ""
+
+#: admin/partials/display_setup.php:19
+msgid "Step 2. Choose Languages."
+msgstr ""
+
+#: admin/partials/display_setup.php:20
+msgid "Step 3. Plugin is Ready!"
+msgstr ""
+
+#: admin/partials/display_setup.php:44
+msgid "Skip Setup Wizard"
+msgstr ""
+
+#: admin/partials/display_setup.php:45
+msgid "Reset and Restart"
+msgstr ""
+
+#: admin/partials/display_setup.php:46
+msgid "Save and continue"
+msgstr ""
+
+#: admin/partials/display_utilities.php:16
+msgid "Autoglot Plugin Utilities"
+msgstr ""
+
+#: autoglot.php:239
+msgid ""
+"There was an error during installation or activation of Autoglot plugin:"
+msgstr ""
+
+#: utils/autoglot_curl.php:133
+msgid "Notification of Low Translation Balance"
+msgstr ""
+
+#: utils/autoglot_curl.php:134
+msgid "Hello site administrator!"
+msgstr ""
+
+#: utils/autoglot_curl.php:135
+msgid "This is a notification from Autoglot translation plugin installed on:"
+msgstr ""
+
+#: utils/autoglot_curl.php:137
+msgid ""
+"Your translation balance is either too low or empty and therefore Autoglot "
+"cannot automatically translate new content. Although your WordPress site "
+"will continue to display your previously translated content, we suggest that "
+"you replenish your translation balance in your Autoglot Control Panel:"
+msgstr ""
+
+#: utils/autoglot_curl.php:139
+msgid ""
+"Once you increase your translation balance, we will continue automatically "
+"translating your WordPress website."
+msgstr ""
+
+#: utils/autoglot_curl.php:140
+msgid "Best Regards,"
+msgstr ""
+
+#: utils/autoglot_curl.php:145
+msgid ""
+"Failed to send e-mail notification, function \"wp_mail\" not found. Your "
+"translation balance is either too low or empty and therefore Autoglot cannot "
+"automatically translate new content."
+msgstr ""
+
+#: utils/autoglot_widget.php:28
+msgid "Autoglot WP Translation Widget"
+msgstr ""
+
+#: utils/autoglot_widget.php:55
+msgid "Widget Title"
+msgstr ""
+
+#: utils/autoglot_widget.php:61
+msgid "Selector Style"
+msgstr ""
